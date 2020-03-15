@@ -1,0 +1,321 @@
+,winery,wine,location,rating,price,wine_category,country,region,vintage,wine_style
+0,Château d'Esclans,Garrus Rosé 2017,France_Côtes de Provence,4.5,$99.99,Rose,France,Côtes de Provence,2017,Rosé
+1,Gérard Bertrand,Clos du Temple 2018,France_Languedoc,4.5,$167.99,Rose,France,Languedoc,2018,Rosé
+2,Château d'Esclans,Garrus Rosé N.V.,France_Côtes de Provence,4.4,$89.99,Rose,France,Côtes de Provence,N.V.,Rosé
+3,Minuty,281 Rosé 2017,France_Provence,4.4,$171.99,Rose,France,Provence,2017,Rosé
+4,Domaine de l'Abbaye,Clos Beylesse Côtes de Provence Rosé 2018,France_Côtes de Provence,4.4,$29.99,Rose,France,Côtes de Provence,2018,Provence
+5,Domaine de l'Abbaye,Clos Beylesse Côtes de Provence Rosé N.V.,France_Côtes de Provence,4.3,$35.99,Rose,France,Côtes de Provence,N.V.,Provence
+6,Minuty,Rosé et Or 2018,France_Côtes de Provence,4.3,$44.99,Rose,France,Côtes de Provence,2018,Rosé
+7,Domaines Ott,Clos Mireille Rosé (Coeur de Grain) 2017,France_Côtes de Provence,4.3,$49.99,Rose,France,Côtes de Provence,2017,Rosé
+8,Domaines Ott,Château de Selle Rosé (Coeur de Grain) 2018,France_Côtes de Provence,4.3,$49.95,Rose,France,Côtes de Provence,2018,Rosé
+9,R. López de Heredia Viña Tondonia,Gran Reserva Rosado 2009,Spain_Rioja Alta,4.3,$129.99,Rose,Spain,Rioja Alta,2009,Rosé
+10,Scribe,Rosé of Pinot Noir 2018,United States_Sonoma Coast,4.3,$32.99,Rose,United States,Sonoma Coast,2018,Pinot
+11,Gassier,Château Gassier 946 Sainte Victoire Sélection Parcellaire Rosé 2017,France_Côtes de Provence,4.2,$49.99,Rose,France,Côtes de Provence,2017,Rosé
+12,Domaines Ott,Château de Selle Rosé (Coeur de Grain) N.V.,France_Côtes de Provence,4.2,$59.99,Rose,France,Côtes de Provence,N.V.,Rosé
+13,Domaines Ott,Château de Selle Rosé (Coeur de Grain) 2017,France_Côtes de Provence,4.2,$45.99,Rose,France,Côtes de Provence,2017,Rosé
+14,Château d'Esclans,Rock Angel Rosé 2018,France_Côtes de Provence,4.2,$34.99,Rose,France,Côtes de Provence,2018,Rosé
+15,Domaines Ott,Château Romassan Rosé (Coeur de Grain) 2018,France_Bandol,4.2,$57.99,Rose,France,Bandol,2018,Rosé
+16,Château d'Esclans,Whispering Angel Rosé 2019,France_Côtes de Provence,4.2,$67.99,Rose,France,Côtes de Provence,2019,Rosé
+17,Robert Sinskey,Pinot Noir of Vin Gris 2018,United States_Los Carneros,4.2,$28.99,Rose,United States,Los Carneros,2018,Pinot
+18,Domaines Ott,Château Romassan Rosé (Coeur de Grain) 2017,France_Bandol,4.2,$54.99,Rose,France,Bandol,2017,Rosé
+19,Chêne Bleu,Rosé N.V.,France_Vaucluse,4.1,$29.99,Rose,France,Vaucluse,N.V.,Rosé
+20,Domaine de Terrebrune,Terroir du Trias Delille Vigneron Bandol Rosé N.V.,France_Bandol,4.1,$32.98,Rose,France,Bandol,N.V.,Rosé
+21,Barton & Guestier,Tourmaline Côtes de Provence 2018,France_Côtes de Provence,4.1,$26.99,Rose,France,Côtes de Provence,2018,Provence
+22,Clos Cibonne,Tibouren Tradition Rosé 2017,France_Côtes de Provence,4.1,$32.99,Rose,France,Côtes de Provence,2017,Rosé
+23,Ameztoi,Rubentis 2018,Spain_Getariako Txakolina,4.1,$25.99,Rose,Spain,Getariako Txakolina,2018,Rosé
+24,Domaines Ott,Clos Mireille Rosé (Coeur de Grain) 2018,France_Côtes de Provence,4.1,$49.95,Rose,France,Côtes de Provence,2018,Rosé
+25,Vino Budimir,Svb Rosa 2007,Serbia_Central Serbia,4.1,$38.99,Rose,Serbia,Central Serbia,2007,Rosé
+26,Muga,Flor de Muga Rosado 2018,Spain_Rioja,4.1,$34.99,Rose,Spain,Rioja,2018,Rosé
+27,Pico Maccario,Piemonte Lavignone Rosato 2016,Italy_Piemonte,4.1,$28.99,Rose,Italy,Piemonte,2016,Rosé
+28,Domaine de Terrebrune,Terroir du Trias Delille Vigneron Bandol Rosé 2017,France_Bandol,4.1,$32.98,Rose,France,Bandol,2017,Rosé
+29,Château Léoube,Rosé de Léoube 2017,France_Côtes de Provence,4.1,$56.99,Rose,France,Côtes de Provence,2017,Rosé
+30,Gros' Noré,Bandol Rosé 2017,France_Bandol,4.1,$41.99,Rose,France,Bandol,2017,Rosé
+31,Clos Canarelli,Corse Figari Rosé 2016,France_Corse Figari,4.1,$32.98,Rose,France,Corse Figari,2016,Rosé
+32,Chêne Bleu,Rosé 2018,France_Vaucluse,4.1,$37.99,Rose,France,Vaucluse,2018,Rosé
+33,Gros' Noré,Bandol Rosé 2018,France_Bandol,4.1,$38.99,Rose,France,Bandol,2018,Rosé
+34,La Sirena,La Sirena Rosato N.V.,United States_Amador County,4.1,$32.99,Rose,United States,Amador County,N.V.,Rosé
+35,Railsback Frères Winery,Les Rascasses Rosé 2017,United States_Santa Ynez Valley,4.1,$25.99,Rose,United States,Santa Ynez Valley,2017,Rosé
+36,Mas Jullien,Rosé 2015,France_Languedoc,4.1,$39.99,Rose,France,Languedoc,2015,Rosé
+37,Château de Pibarnon,Bandol Rosé N.V.,France_Bandol,4.0,$32.99,Rose,France,Bandol,N.V.,Rosé
+38,Matthiasson,Rosé N.V.,United States_Napa Valley,4.0,$27.48,Rose,United States,Napa Valley,N.V.,Rosé
+39,Bedrock Wine Co.,Ode To Lulu Rosé N.V.,United States_California,4.0,$25.29,Rose,United States,California,N.V.,Rosé
+40,Château Léoube,Secret de Léoube Rosé N.V.,France_Côtes de Provence,4.0,$36.99,Rose,France,Côtes de Provence,N.V.,Rosé
+41,Flowers,Rosé N.V.,United States_Sonoma Coast,4.0,$27.48,Rose,United States,Sonoma Coast,N.V.,Rosé
+42,Matthiasson,Rosé 2017,United States_Napa Valley,4.0,$27.48,Rose,United States,Napa Valley,2017,Rosé
+43,Domaine du Gour de Chaule,Amour de Rosé Gigondas N.V.,France_Gigondas,4.0,$31.99,Rose,France,Gigondas,N.V.,Rosé
+44,Château de Pibarnon,Bandol Rosé 2018,France_Bandol,4.0,$27.95,Rose,France,Bandol,2018,Rosé
+45,Fattoria Sardi,Le Cicale Rosato N.V.,Italy_Toscana,4.0,$31.99,Rose,Italy,Toscana,N.V.,Rosé
+46,Domaine de Terrebrune,Terroir du Trias Delille Vigneron Bandol Rosé 2015,France_Bandol,4.0,$43.99,Rose,France,Bandol,2015,Rosé
+47,Yves Leccia,Patrimonio Rosé 2016,France_Patrimonio,4.0,$31.99,Rose,France,Patrimonio,2016,Rosé
+48,Domaine de la Mordoree,La Reine des Bois Tavel Rosé 2018,France_Tavel,4.0,$29.50,Rose,France,Tavel,2018,Tavel
+49,Bedrock Wine Co.,Ode To Lulu Rosé 2018,United States_California,4.0,$25.29,Rose,United States,California,2018,Rosé
+50,Château de Berne,Château de Berne Rosé N.V.,France_Côtes de Provence,3.9,$32.99,Rose,France,Côtes de Provence,N.V.,Rosé
+51,Minuty,Prestige Rosé 2018,France_Côtes de Provence,3.9,$36.99,Rose,France,Côtes de Provence,2018,Rosé
+52,Costaripa,Rosamara (Valtenesi Chiaretto) 2017,Italy_Lombardia,3.9,$29.99,Rose,Italy,Lombardia,2017,Rosé
+53,Domaine Serene,R Rosé N.V.,United States_Oregon,3.9,$29.99,Rose,United States,Oregon,N.V.,Rosé
+54,Clos Canarelli,Corse Figari Rosé N.V.,France_Corse Figari,3.9,$32.98,Rose,France,Corse Figari,N.V.,Rosé
+55,Domaine de la Croix,Éloge Côtes de Provence Rosé N.V.,France_Côtes de Provence,3.9,$27.49,Rose,France,Côtes de Provence,N.V.,Provence
+56,Gassier,Château Gassier Le Pas du Moine Sainte Victoire 2018,France_Côtes de Provence,3.9,$29.99,Rose,France,Côtes de Provence,2018,Rosé
+57,La Suffrene,Bandol Rosé 2018,France_Bandol,3.9,$27.99,Rose,France,Bandol,2018,Rosé
+58,Le Vigne di Alice,Osé Brut Rosé N.V.,Italy_Veneto,3.9,$25,Rose,Italy,Veneto,N.V.,Rosé
+59,Château Sainte Marguerite,Côtes de Provence Rosé 2017,France_Côtes de Provence,3.9,$34.99,Rose,France,Côtes de Provence,2017,Provence
+60,Txomin Etxaniz,Getaria Rosé 2017,Spain_Getariako Txakolina,3.9,$25.99,Rose,Spain,Getariako Txakolina,2017,Rosé
+61,Matthiasson,Rosé 2018,United States_Napa Valley,3.9,$27.48,Rose,United States,Napa Valley,2018,Rosé
+62,Bagnol,Cassis Rosé 2016,France_Cassis,3.9,$59.99,Rose,France,Cassis,2016,Rosé
+63,Alphonse Mellot,La Moussière Sancerre Rosé 2018,France_Sancerre,3.9,$33.99,Rose,France,Sancerre,2018,Rosé
+64,Château de Berne,Château de Berne Rosé 2018,France_Côtes de Provence,3.9,$28.97,Rose,France,Côtes de Provence,2018,Rosé
+65,Montonale,Rosa di Notte 2018,Italy_Lombardia,3.9,$25.99,Rose,Italy,Lombardia,2018,Rosé
+66,Gérard Bertrand,Joa Rosé 2018,France_Languedoc,3.9,$31.99,Rose,France,Languedoc,2018,Rosé
+67,Dominio del Aguila,Pícaro Claret Rosé 2015,Spain_Ribera del Duero,3.9,$35.99,Rose,Spain,Ribera del Duero,2015,Rosé
+68,Domaine Poli,Clos Alivu Rosé 2017,France_Patrimonio,3.9,$25.99,Rose,France,Patrimonio,2017,Rosé
+69,Château Vannières,Bandol Rosé 2018,France_Bandol,3.9,$29.97,Rose,France,Bandol,2018,Rosé
+70,Domaine de la Croix,Éloge Côtes de Provence Rosé 2018,France_Côtes de Provence,3.9,$27.49,Rose,France,Côtes de Provence,2018,Provence
+71,Jean-Paul Balland,Sancerre Rosé 2018,France_Sancerre,3.9,$26.99,Rose,France,Sancerre,2018,Rosé
+72,La Bastide Blanche,Bandol Rosé N.V.,France_Bandol,3.8,$25.29,Rose,France,Bandol,N.V.,Rosé
+73,Château Vannières,Bandol Rosé N.V.,France_Bandol,3.8,$30.79,Rose,France,Bandol,N.V.,Rosé
+74,Azores Wine Company,Vulcânico Rosé 2018,Portugal_Açores,3.8,$25.99,Rose,Portugal,Açores,2018,Rosé
+75,Minuty,281 Rosé 2016,France_Provence,4.5,View shops,Rose,France,Provence,2016,Rosé
+76,Inman Family,OGV Estate Endless Crush Rosé Of Pinot Noir 2018,United States_Russian River Valley,4.5,View shops,Rose,United States,Russian River Valley,2018,Pinot
+77,Château Simone,Palette Rose 2016,France_Palette,4.5,View shops,Rose,France,Palette,2016,Rosé
+78,Minuty,281 Rosé 2018,France_Provence,4.4,View shops,Rose,France,Provence,2018,Rosé
+79,Minuty,281 Rosé N.V.,France_Provence,4.4,View shops,Rose,France,Provence,N.V.,Rosé
+80,Château d'Esclans,Garrus Rosé 2016,France_Côtes de Provence,4.4,View shops,Rose,France,Côtes de Provence,2016,Rosé
+81,Robert Sinskey,Pinot Noir of Vin Gris 2016,United States_Los Carneros,4.4,View shops,Rose,United States,Los Carneros,2016,Pinot
+82,Robert Sinskey,Pinot Noir of Vin Gris N.V.,United States_Los Carneros,4.3,View shops,Rose,United States,Los Carneros,N.V.,Pinot
+83,Yves Leccia,Patrimonio Rosé 2017,France_Patrimonio,3.8,$26.99,Rose,France,Patrimonio,2017,Rosé
+84,Graham Beck,Brut Rosé (Chardonnay - Pinot Noir) 2014,South Africa_Robertson,3.8,$25.99,Rose,South Africa,Robertson,2014,Pinot
+85,Mathilde Chapoutier,Grand Ferrage Côtes de Provence 2018,France_Côtes de Provence,3.8,$31.99,Rose,France,Côtes de Provence,2018,Provence
+86,Hecht & Bannier,Bandol Rosé 2017,France_Bandol,3.8,$33.99,Rose,France,Bandol,2017,Rosé
+87,Hecht & Bannier,Bandol Rosé 2016,France_Bandol,3.8,$28.99,Rose,France,Bandol,2016,Rosé
+88,Domaine de l'Olivette,Bandol Rosé 2017,France_Bandol,3.8,$25,Rose,France,Bandol,2017,Rosé
+89,Peyrassol,Chateau Peyrassol Côtes de Provence Rosé 2018,France_Côtes de Provence,3.8,$26,Rose,France,Côtes de Provence,2018,Provence
+90,Tablas Creek Vineyard,Patelin de Tablas Rosé 2018,United States_Paso Robles,3.8,$25.99,Rose,United States,Paso Robles,2018,Rosé
+91,Conundrum,Rosé 2015,United States_California,3.8,$26.99,Rose,United States,California,2015,Rosé
+92,Clos du Caillou,Côtes du Rhône Le Caillou Rosé N.V.,France_Côtes-du-Rhône,3.7,$25.29,Rose,France,Côtes-du-Rhône,N.V.,Rosé
+93,Château Léoube,Secret de Léoube Rosé 2017,France_Côtes de Provence,3.7,$39.99,Rose,France,Côtes de Provence,2017,Rosé
+94,Domaine Bruno Clair,Marsannay Rosé 2014,France_Marsannay,3.7,$34.99,Rose,France,Marsannay,2014,Rosé
+95,Château Roubine,Côtes de Provence Rosé (Cru Classé) 2018,France_Côtes de Provence,3.7,$29.99,Rose,France,Côtes de Provence,2018,Provence
+96,Rêve de la Mer,Rosé N.V.,France_Vin de Corse,3.6,$28,Rose,France,Vin de Corse,N.V.,Rosé
+97,JNSQ,Rosé Cru N.V.,United States_California,3.6,$29.99,Rose,United States,California,N.V.,Rosé
+98,Silverado,Sangiovese Rosato 2016,United States_Stags Leap District,3.6,$29.99,Rose,United States,Stags Leap District,2016,Sangiovese
+99,LVE,Provence Rosé 2018,France_Provence,3.4,$27.99,Rose,France,Provence,2018,Provence
+100,Broc Cellars,Koukou Cabernet Franc Rosé 2018,United States_Happy Canyon of Santa Barbara,4.3,View shops,Rose,United States,Happy Canyon of Santa Barbara,2018,Rosé
+101,R. López de Heredia Viña Tondonia,Gran Reserva Rosado N.V.,Spain_Rioja Alta,4.3,View shops,Rose,Spain,Rioja Alta,N.V.,Rosé
+102,Domaines Ott,Château de Selle Rosé (Coeur de Grain) 2016,France_Côtes de Provence,4.3,View shops,Rose,France,Côtes de Provence,2016,Rosé
+103,Commanderie de la Bargemone,Cuvée Marina Rosé 2018,France_Coteaux d'Aix-en-Provence,4.3,View shops,Rose,France,Coteaux d'Aix-en-Provence,2018,Rosé
+104,Domaines Ott,Château de Selle Rosé (Coeur de Grain) 2015,France_Côtes de Provence,4.3,View shops,Rose,France,Côtes de Provence,2015,Rosé
+105,R. López de Heredia Viña Tondonia,Gran Reserva Rosado 2008,Spain_Rioja Alta,4.3,View shops,Rose,Spain,Rioja Alta,2008,Rosé
+106,Domaine de l'Abbaye,Clos Beylesse Côtes de Provence Rosé 2016,France_Côtes de Provence,4.3,View shops,Rose,France,Côtes de Provence,2016,Provence
+107,Robert Sinskey,Pinot Noir of Vin Gris 2013,United States_Los Carneros,4.3,View shops,Rose,United States,Los Carneros,2013,Pinot
+108,Le Coste,Rosato N.V.,Italy_Lazio,4.3,View shops,Rose,Italy,Lazio,N.V.,Rosé
+109,VieVité,Extraordinaire Côtes de Provence Rosé N.V.,France_Côtes de Provence,4.3,View shops,Rose,France,Côtes de Provence,N.V.,Provence
+110,Domaine de l'Abbaye,Clos Beylesse Côtes de Provence Rosé 2017,France_Côtes de Provence,4.3,View shops,Rose,France,Côtes de Provence,2017,Provence
+111,Cakebread,Vin De Porche Rosé 2018,United States_Anderson Valley,4.3,View shops,Rose,United States,Anderson Valley,2018,Rosé
+112,Clif Family,Rosé Of Grenache N.V.,United States_Mendocino,4.3,View shops,Rose,United States,Mendocino,N.V.,Grenache
+113,Goldeneye,Pinot Noir Rosé 2017,United States_California,4.3,View shops,Rose,United States,California,2017,Pinot
+114,Domaine Hippolyte Reverdy,Sancerre Rosé 2018,France_Upper Loire,4.3,View shops,Rose,France,Upper Loire,2018,Rosé
+115,Alain Girard & Fils,Sancerre Rosé N.V.,France_Sancerre,4.3,View shops,Rose,France,Sancerre,N.V.,Rosé
+116,Lieu Dit,Pinot Noir Rosé 2017,United States_Santa Barbara County,4.3,View shops,Rose,United States,Santa Barbara County,2017,Pinot
+117,Minuty,Rosé et Or 2017,France_Côtes de Provence,4.3,View shops,Rose,France,Côtes de Provence,2017,Rosé
+118,Minuty,Rosé et Or N.V.,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,N.V.,Rosé
+119,Domaines Ott,Château Romassan Rosé (Coeur de Grain) N.V.,France_Bandol,4.2,View shops,Rose,France,Bandol,N.V.,Rosé
+120,Domaine Tempier,Bandol Rosé N.V.,France_Bandol,4.2,View shops,Rose,France,Bandol,N.V.,Rosé
+121,Domaines Ott,Clos Mireille Rosé (Coeur de Grain) N.V.,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,N.V.,Rosé
+122,Château d'Esclans,Les Clans Rosé N.V.,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,N.V.,Rosé
+123,Frank Cornelissen,Susucaru 2017,Italy_Terre Siciliane,4.2,View shops,Rose,Italy,Terre Siciliane,2017,Rosé
+124,Minuty,Rosé et Or 2016,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,2016,Rosé
+125,Domaine Tempier,Bandol Rosé 2016,France_Bandol,4.2,View shops,Rose,France,Bandol,2016,Rosé
+126,Domaines Ott,Château Romassan Rosé (Coeur de Grain) 2015,France_Bandol,4.2,View shops,Rose,France,Bandol,2015,Rosé
+127,Frank Cornelissen,Susucaru 2018,Italy_Terre Siciliane,4.2,View shops,Rose,Italy,Terre Siciliane,2018,Rosé
+128,Domaine Tempier,Bandol Rosé 2015,France_Bandol,4.2,View shops,Rose,France,Bandol,2015,Rosé
+129,Domaines Ott,Clos Mireille Rosé (Coeur de Grain) 2016,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,2016,Rosé
+130,Domaine Tempier,Bandol Rosé 2017,France_Bandol,4.2,View shops,Rose,France,Bandol,2017,Rosé
+131,Clos Cibonne,Tibouren Tradition Rosé 2016,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,2016,Rosé
+132,Clos Cibonne,Tibouren Tradition Rosé 2015,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,2015,Rosé
+133,Gut Oggau,Winifred Rosé 2017,Austria_Weinland,4.2,View shops,Rose,Austria,Weinland,2017,Rosé
+134,Domaine Tempier,Bandol Rosé 2014,France_Bandol,4.2,View shops,Rose,France,Bandol,2014,Rosé
+135,Gut Oggau,Winifred Rosé 2018,Austria_Weinland,4.2,View shops,Rose,Austria,Weinland,2018,Rosé
+136,Long Meadow Ranch,Anderson Valley Rosé of Pinot Noir N.V.,United States_Anderson Valley,4.2,View shops,Rose,United States,Anderson Valley,N.V.,Pinot
+137,Manincor,La Rosé de Manincor 2017,Italy_Vigneti delle Dolomiti,4.2,View shops,Rose,Italy,Vigneti delle Dolomiti,2017,Rosé
+138,Domaines Ott,Château Romassan Rosé (Coeur de Grain) 2012,France_Bandol,4.2,View shops,Rose,France,Bandol,2012,Rosé
+139,Gut Oggau,Rosé (Family Reunion) 2016,Austria_Weinland,4.2,View shops,Rose,Austria,Weinland,2016,Rosé
+140,Scala Dei,Pla del Àngels Rosado 2017,Spain_Priorat,4.2,View shops,Rose,Spain,Priorat,2017,Rosé
+141,Château d'Esclans,Les Clans Rosé 2016,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,2016,Rosé
+142,Château Simone,Palette Rose 2015,France_Palette,4.2,View shops,Rose,France,Palette,2015,Rosé
+143,Saffron Fields,Pinot Noir Rosé N.V.,United States_Willamette Valley,4.2,View shops,Rose,United States,Willamette Valley,N.V.,Pinot
+144,Chêne Bleu,Rosé 2017,France_Vaucluse,4.2,View shops,Rose,France,Vaucluse,2017,Rosé
+145,Rimauresq,Côtes de Provence Rosé (Cru Classé) 2017,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,2017,Provence
+146,Château d'Esclans,Les Clans Rosé 2017,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,2017,Rosé
+147,Franz Haas,Moscato Rosa Schweizer 2013,Italy_Südtirol - Alto Adige,4.2,View shops,Rose,Italy,Südtirol - Alto Adige,2013,Rosé
+148,Valentini,Cerasuolo Montepulciano d'Abruzzo Rosé 2016,Italy_Cerasuolo d'Abruzzo,4.2,View shops,Rose,Italy,Cerasuolo d'Abruzzo,2016,Rosé
+149,Matthiasson,Rosé 2015,United States_Napa Valley,4.2,View shops,Rose,United States,Napa Valley,2015,Rosé
+150,Valentini,Cerasuolo Montepulciano d'Abruzzo Rosé 2014,Italy_Cerasuolo d'Abruzzo,4.2,View shops,Rose,Italy,Cerasuolo d'Abruzzo,2014,Rosé
+151,St.Reginald Parish,The Marigny Pinot Noir Rosé N.V.,United States_Willamette Valley,4.2,View shops,Rose,United States,Willamette Valley,N.V.,Pinot
+152,Château de Saint Martin,Eternelle Favorite Rosé 2017,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,2017,Rosé
+153,Terroir Al Límit Soc. Lda,Roc d'Aubaga Rosé 2016,Spain_Priorat,4.2,View shops,Rose,Spain,Priorat,2016,Rosé
+154,Liquid Farm,Vogelzang Vineyard Rosé 2015,United States_Happy Canyon of Santa Barbara,4.2,View shops,Rose,United States,Happy Canyon of Santa Barbara,2015,Rosé
+155,Château Pradeaux,Bandol Rosé 2018,France_Bandol,4.2,View shops,Rose,France,Bandol,2018,Rosé
+156,Pasqua,11 Minutes Rosato 2011,Italy_Veneto,4.2,View shops,Rose,Italy,Veneto,2011,Rosé
+157,Franz Haas,Moscato Rosa Schweizer 2018,Italy_Südtirol - Alto Adige,4.2,View shops,Rose,Italy,Südtirol - Alto Adige,2018,Rosé
+158,François Cotat,Chavignol Sancerre Rosé 2016,France_Sancerre,4.2,View shops,Rose,France,Sancerre,2016,Rosé
+159,Madonna Estate,Pinot Rosetto 2018,United States_Napa Valley,4.2,View shops,Rose,United States,Napa Valley,2018,Pinot
+160,Valentini,Cerasuolo Montepulciano d'Abruzzo Rosé 2018,Italy_Cerasuolo d'Abruzzo,4.2,View shops,Rose,Italy,Cerasuolo d'Abruzzo,2018,Rosé
+161,Mathilde Chapoutier,Côtes de Provence Rosé 2016,France_Côtes de Provence,4.2,View shops,Rose,France,Côtes de Provence,2016,Provence
+162,Lucien Crochet,Sancerre Pinot Rosé N.V.,France_Sancerre,4.1,View shops,Rose,France,Sancerre,N.V.,Pinot
+163,Château Simone,Palette Rose N.V.,France_Palette,4.1,View shops,Rose,France,Palette,N.V.,Rosé
+164,Gassier,Château Gassier 946 Sainte Victoire Sélection Parcellaire Rosé N.V.,France_Côtes de Provence,4.1,View shops,Rose,France,Côtes de Provence,N.V.,Rosé
+165,Monte da Ravasqueira,MR Premium Rosé N.V.,Portugal_Alentejo,4.1,View shops,Rose,Portugal,Alentejo,N.V.,Rosé
+166,Unti,Rosé N.V.,United States_Dry Creek Valley,4.1,View shops,Rose,United States,Dry Creek Valley,N.V.,Rosé
+167,Château de Pibarnon,Bandol Rosé 2016,France_Bandol,4.1,View shops,Rose,France,Bandol,2016,Rosé
+168,Château de Berne,Château de Berne Rosé 2017,France_Côtes de Provence,4.1,View shops,Rose,France,Côtes de Provence,2017,Rosé
+169,Château Canadel,Bandol Rosé 2015,France_Bandol,4.1,View shops,Rose,France,Bandol,2015,Rosé
+170,Domaine Tempier,Bandol Rosé 2013,France_Bandol,4.1,View shops,Rose,France,Bandol,2013,Rosé
+171,Broc Cellars,Koukou Cabernet Franc Rosé 2017,United States_Happy Canyon of Santa Barbara,4.1,View shops,Rose,United States,Happy Canyon of Santa Barbara,2017,Rosé
+172,Tablas Creek Vineyard,Dianthus N.V.,United States_Paso Robles,4.1,View shops,Rose,United States,Paso Robles,N.V.,Rosé
+173,Peyrassol,Chateau Peyrassol Côtes de Provence Rosé 2017,France_Côtes de Provence,4.1,View shops,Rose,France,Côtes de Provence,2017,Provence
+174,Lieu Dit,Pinot Noir Rosé N.V.,United States_Santa Barbara County,4.1,View shops,Rose,United States,Santa Barbara County,N.V.,Pinot
+175,Eric Kent,Rosé 2018,United States_Sonoma Coast,4.1,View shops,Rose,United States,Sonoma Coast,2018,Rosé
+176,Les Maitres Vignerons de la Presqu'ile de Saint-Tropez,Grain de Glace Le Rosé de l'Hiver Rosé 2017,France_Provence,4.1,View shops,Rose,France,Provence,2017,Rosé
+177,Flowers,Rosé 2016,United States_Sonoma Coast,4.1,View shops,Rose,United States,Sonoma Coast,2016,Rosé
+178,Arnot-Roberts,Rosé 2018,United States_Clear Lake,4.1,View shops,Rose,United States,Clear Lake,2018,Rosé
+179,Lucien Crochet,Sancerre Pinot Rosé 2014,France_Sancerre,4.1,View shops,Rose,France,Sancerre,2014,Pinot
+180,Azur,Rosé 2017,United States_Napa Valley,4.1,View shops,Rose,United States,Napa Valley,2017,Rosé
+181,Château Pradeaux,Bandol Rosé 2017,France_Bandol,4.1,View shops,Rose,France,Bandol,2017,Rosé
+182,Bagnol,Cassis Rosé 2017,France_Cassis,4.1,View shops,Rose,France,Cassis,2017,Rosé
+183,Castello di Amorosa,Cresta d'Oro Vineyard Rosato 2018,United States_California,4.1,View shops,Rose,United States,California,2018,Rosé
+184,Pierre-Yves Colin-Morey,Rosé de Pinot Noir 2017,France_Bourgogne,4.1,View shops,Rose,France,Bourgogne,2017,Pinot
+185,Thibaud Boudignon,Rosé de Loire 2017,France_Rosé de Loire,4.1,View shops,Rose,France,Rosé de Loire,2017,Rosé
+186,Château le Puy,Rose-Marie 2016,France_Blaye - Côtes de Bordeaux,4.1,View shops,Rose,France,Blaye - Côtes de Bordeaux,2016,Rosé
+187,Pascal Cotat,Chavignol Sancerre Rosé 2016,France_Sancerre,4.1,View shops,Rose,France,Sancerre,2016,Rosé
+188,Pascal et Nicolas Reverdy,Terre De Maimbray Rose 2018,France_Sancerre,4.1,View shops,Rose,France,Sancerre,2018,Rosé
+189,Wölffer Estate,Grandioso Rosé 2015,United States_Long Island,4.1,View shops,Rose,United States,Long Island,2015,Rosé
+190,Tenuta Ammiraglia,Aurea Gran Rosé 2017,Italy_Toscana,4.1,View shops,Rose,Italy,Toscana,2017,Rosé
+191,Château La Gordonne,La Chapelle Gordonne Côtes de Provence Rosé 2017,France_Côtes de Provence,4.1,View shops,Rose,France,Côtes de Provence,2017,Provence
+192,Gassier,Château Gassier Le Pas du Moine Sainte Victoire N.V.,France_Côtes de Provence,4.0,View shops,Rose,France,Côtes de Provence,N.V.,Rosé
+193,Gros' Noré,Bandol Rosé N.V.,France_Bandol,4.0,View shops,Rose,France,Bandol,N.V.,Rosé
+194,Château Pradeaux,Bandol Rosé N.V.,France_Bandol,4.0,View shops,Rose,France,Bandol,N.V.,Rosé
+195,Belle Glos,Oeil de Perdrix Pinot Noir Blanc Rosé 2015,United States_Yorkville Highlands,4.0,View shops,Rose,United States,Yorkville Highlands,2015,Pinot
+196,Susana Balbo,Signature Rosé 2016,Argentina_Uco Valley,4.0,View shops,Rose,Argentina,Uco Valley,2016,Rosé
+197,Charles Thomas,Sainte Victoire Côtes de Provence Rosé N.V.,France_Côtes de Provence,4.0,View shops,Rose,France,Côtes de Provence,N.V.,Provence
+198,Domaine de la Tour du Bon,Bandol Rosé 2012,France_Bandol,4.0,View shops,Rose,France,Bandol,2012,Rosé
+199,Hill Family Estate,Rose' of Pinot Noir N.V.,United States_Napa Valley,4.0,View shops,Rose,United States,Napa Valley,N.V.,Pinot
+200,Las Jaras Wines,Rosé N.V.,United States_Mendocino County,4.0,View shops,Rose,United States,Mendocino County,N.V.,Rosé
+201,Graci,Etna Rosato 2018,Italy_Etna,4.0,View shops,Rose,Italy,Etna,2018,Rosé
+202,Domaine de Terrebrune,Terroir du Trias Delille Vigneron Bandol Rosé 2016,France_Bandol,4.0,View shops,Rose,France,Bandol,2016,Rosé
+203,Chêne Bleu,Rosé 2015,France_Vaucluse,4.0,View shops,Rose,France,Vaucluse,2015,Rosé
+204,Scribe,Rosé of Pinot Noir 2017,United States_Sonoma Coast,4.0,View shops,Rose,United States,Sonoma Coast,2017,Pinot
+205,Liquid Farm,Vogelzang Vineyard Rosé 2016,United States_Happy Canyon of Santa Barbara,4.0,View shops,Rose,United States,Happy Canyon of Santa Barbara,2016,Rosé
+206,Château Simone,Les Grands Carmes de Simone Rose 2014,France_Bouches-du-Rhone,4.0,View shops,Rose,France,Bouches-du-Rhone,2014,Rosé
+207,Domaine de Terrebrune,Terroir du Trias Delille Vigneron Bandol Rosé 2018,France_Bandol,4.0,View shops,Rose,France,Bandol,2018,Rosé
+208,Clos Sainte Magdeleine,Cassis Rosé 2018,France_Cassis,4.0,View shops,Rose,France,Cassis,2018,Rosé
+209,Bagnol,Cassis Rosé 2018,France_Cassis,4.0,View shops,Rose,France,Cassis,2018,Rosé
+210,Cambria,Julia's Vineyard Rosé N.V.,United States_Santa Maria Valley,4.0,View shops,Rose,United States,Santa Maria Valley,N.V.,Rosé
+211,Yetti And The Kokonut,B'Rosé 2017,Australia_Adelaide Hills,4.0,View shops,Rose,Australia,Adelaide Hills,2017,Rosé
+212,Broc Cellars,Trousseau 2018,United States_Solano County,4.0,View shops,Rose,United States,Solano County,2018,Rosé
+213,Château Val Joanis,Joséphine Luberon Rosé 2016,France_Luberon,4.0,View shops,Rose,France,Luberon,2016,Rosé
+214,Lucien Crochet,Sancerre Pinot Rosé 2017,France_Sancerre,4.0,View shops,Rose,France,Sancerre,2017,Pinot
+215,Samsara,Grenache Rosé N.V.,United States_Sta. Rita Hills,4.0,View shops,Rose,United States,Sta. Rita Hills,N.V.,Grenache
+216,Lucy,Rosé of Pinot Noir 2018,United States_Santa Lucia Highlands,4.0,View shops,Rose,United States,Santa Lucia Highlands,2018,Pinot
+217,Domaine de Marquiliani,Rosé 2017,France_Corsica,4.0,View shops,Rose,France,Corsica,2017,Rosé
+218,Château Léoube,Secret de Léoube Rosé 2018,France_Côtes de Provence,4.0,View shops,Rose,France,Côtes de Provence,2018,Rosé
+219,Clos Canarelli,Corse Figari Rosé 2017,France_Corse Figari,4.0,View shops,Rose,France,Corse Figari,2017,Rosé
+220,Las Jaras Wines,Rosé 2018,United States_Mendocino County,4.0,View shops,Rose,United States,Mendocino County,2018,Rosé
+221,Inman Family,OGV Estate Endless Crush Rosé Of Pinot Noir 2016,United States_Russian River Valley,4.0,View shops,Rose,United States,Russian River Valley,2016,Pinot
+222,Shvo Vineyards,Rosé 2018,Israel_Upper Galilee,4.0,View shops,Rose,Israel,Upper Galilee,2018,Rosé
+223,Minimus,RedWhitePink Rosé 2016,United States_Oregon,4.0,View shops,Rose,United States,Oregon,2016,Rosé
+224,Serge Horiot,En Valingrain Rosé des Riceys 2014,France_Rosé des Riceys,4.0,View shops,Rose,France,Rosé des Riceys,2014,Rosé
+225,Miraval,Côtes de Provence Rosé 2016,France_Côtes de Provence,3.9,View shops,Rose,France,Côtes de Provence,2016,Provence
+226,Domaine Vacheron,Sancerre Rosé N.V.,France_Sancerre,3.9,View shops,Rose,France,Sancerre,N.V.,Rosé
+227,Miraval,Côtes de Provence Rosé 2013,France_Côtes de Provence,3.9,View shops,Rose,France,Côtes de Provence,2013,Provence
+228,Lapostolle,Le Rosé 2016,Chile_Rapel Valley,3.9,View shops,Rose,Chile,Rapel Valley,2016,Rosé
+229,Paolo Calì,Osa Frappato Rosato N.V.,Italy_Terre Siciliane,3.9,View shops,Rose,Italy,Terre Siciliane,N.V.,Rosé
+230,Rabasco,Cancelli Rosato N.V.,Italy_Abruzzo,3.9,View shops,Rose,Italy,Abruzzo,N.V.,Rosé
+231,Muga,Flor de Muga Rosado 2017,Spain_Rioja,3.9,View shops,Rose,Spain,Rioja,2017,Rosé
+232,Château de Pibarnon,Bandol Rosé 2017,France_Bandol,3.9,View shops,Rose,France,Bandol,2017,Rosé
+233,Rimauresq,Côtes de Provence Rosé (Cru Classé) 2016,France_Côtes de Provence,3.9,View shops,Rose,France,Côtes de Provence,2016,Provence
+234,Flam,Rosé N.V.,Israel_Judean Hills,3.9,View shops,Rose,Israel,Judean Hills,N.V.,Rosé
+235,Gambino,Tifeo Etna Rosato 2018,Italy_Etna,3.9,View shops,Rose,Italy,Etna,2018,Rosé
+236,Biltmore,American Limited Release Cabernet Sauvignon Blanc de Noirs N.V.,United States_North Carolina,3.9,View shops,Rose,United States,North Carolina,N.V.,Cabernet Sauvignon
+237,Flowers,Rosé 2017,United States_Sonoma Coast,3.9,View shops,Rose,United States,Sonoma Coast,2017,Rosé
+238,Castel,Rosé d'Anjou 2018,France_Rosé d'Anjou,3.9,View shops,Rose,France,Rosé d'Anjou,2018,Rosé
+239,Val di Toro,Anna's Secret Maremma Toscana Rosato 2015,Italy_Maremma Toscana,3.9,View shops,Rose,Italy,Maremma Toscana,2015,Rosé
+240,Gros' Noré,Bandol Rosé 2016,France_Bandol,3.9,View shops,Rose,France,Bandol,2016,Rosé
+241,Clos Sainte Magdeleine,Cassis Rosé 2017,France_Cassis,3.9,View shops,Rose,France,Cassis,2017,Rosé
+242,Blackbird Vineyards,Arriviste 2017,United States_Napa Valley,3.9,View shops,Rose,United States,Napa Valley,2017,Rosé
+243,Les Caillottes,Sancerre Rosé 2016,France_Côte de Beaune,3.9,View shops,Rose,France,Côte de Beaune,2016,Rosé
+244,Dominio del Aguila,Pícaro Claret Rosé 2016,Spain_Ribera del Duero,3.9,View shops,Rose,Spain,Ribera del Duero,2016,Rosé
+245,Arnot-Roberts,Rosé 2017,United States_Clear Lake,3.9,View shops,Rose,United States,Clear Lake,2017,Rosé
+246,Domaine Les Pallières,Gigondas Au Petit Bonheur 2017,France_Gigondas,3.9,View shops,Rose,France,Gigondas,2017,Rosé
+247,Adelsheim,Rosé 2018,United States_Willamette Valley,3.9,View shops,Rose,United States,Willamette Valley,2018,Rosé
+248,Château Simone,Palette Rose 2017,France_Palette,3.9,View shops,Rose,France,Palette,2017,Rosé
+249,Nocking Point,Pink Wine For Dudes Rosé N.V.,United States_Washington,3.9,View shops,Rose,United States,Washington,N.V.,Rosé
+250,County Line,Rosé 2016,United States_Anderson Valley,3.9,View shops,Rose,United States,Anderson Valley,2016,Rosé
+251,Sunstone,Malbec Rosé 2018,United States_Santa Ynez Valley,3.9,View shops,Rose,United States,Santa Ynez Valley,2018,Rosé
+252,Copain,Tous Ensemble Rosé of Pinot Noir 2015,United States_Anderson Valley,3.9,View shops,Rose,United States,Anderson Valley,2015,Pinot
+253,Château Musar,Rosé (Gaston Hochar) 2004,Lebanon_Bekaa Valley,3.9,View shops,Rose,Lebanon,Bekaa Valley,2004,Rosé
+254,Domaine Drouhin,Pinot Noir Édition Rosé 2016,United States_Dundee Hills,3.9,View shops,Rose,United States,Dundee Hills,2016,Pinot
+255,Gramercy Cellars,Olsen Vineyard Rosé 2017,United States_Columbia Valley,3.9,View shops,Rose,United States,Columbia Valley,2017,Rosé
+256,Valentini,Cerasuolo Montepulciano d'Abruzzo Rosé 2007,Italy_Cerasuolo d'Abruzzo,3.9,View shops,Rose,Italy,Cerasuolo d'Abruzzo,2007,Rosé
+257,Serge Horiot,En Barmont Rosé des Riceys 2011,France_Rosé des Riceys,3.9,View shops,Rose,France,Rosé des Riceys,2011,Rosé
+258,Le Pianelle,Al Posto dei Fiori Rosato 2017,Italy_Coste della Sesia,3.9,View shops,Rose,Italy,Coste della Sesia,2017,Rosé
+259,Pedernales,Dry Rosé 2017,United States_Texas,3.9,View shops,Rose,United States,Texas,2017,Rosé
+260,Château Tour Grise,Ze Bulle Zéro Pointé Rosé N.V.,France_Vin de France,3.8,View shops,Rose,France,Vin de France,N.V.,Rosé
+261,Château Léoube,Rosé de Léoube N.V.,France_Côtes de Provence,3.8,View shops,Rose,France,Côtes de Provence,N.V.,Rosé
+262,La Suffrene,Bandol Rosé N.V.,France_Bandol,3.8,View shops,Rose,France,Bandol,N.V.,Rosé
+263,Château Maïme,Côtes de Provence Rosé N.V.,France_Côtes de Provence,3.8,View shops,Rose,France,Côtes de Provence,N.V.,Provence
+264,Korta Katarina,Plavac Mali - Zinfandel Rosé N.V.,Croatia_Srednja I Juzna Dalmacija,3.8,View shops,Rose,Croatia,Srednja I Juzna Dalmacija,N.V.,Zinfandel
+265,Château d'Esclans,Esprit Rosé N.V.,France_Côtes de Provence,3.8,View shops,Rose,France,Côtes de Provence,N.V.,Rosé
+266,Château Les Valentines,Cotes de Provence Rosé 2018,France_Côtes de Provence,3.8,View shops,Rose,France,Côtes de Provence,2018,Provence
+267,AIX,Rosé 2011,France_Coteaux d'Aix-en-Provence,3.8,View shops,Rose,France,Coteaux d'Aix-en-Provence,2011,Rosé
+268,Château Auguste,Bordeaux Rosé N.V.,France_Bordeaux,3.8,View shops,Rose,France,Bordeaux,N.V.,Rosé
+269,Château Simone,Les Grands Carmes de Simone Rose N.V.,France_Bouches-du-Rhone,3.8,View shops,Rose,France,Bouches-du-Rhone,N.V.,Rosé
+270,La Bastide Blanche,Bandol Rosé 2017,France_Bandol,3.8,View shops,Rose,France,Bandol,2017,Rosé
+271,Heitz Cellar,Grignolino Rosé N.V.,United States_Napa Valley,3.8,View shops,Rose,United States,Napa Valley,N.V.,Rosé
+272,Château Simone,Palette Rose 2014,France_Palette,3.8,View shops,Rose,France,Palette,2014,Rosé
+273,Vins Bréban,Villa Aix en Provence 2017,France_Provence,3.8,View shops,Rose,France,Provence,2017,Provence
+274,F. Schatz,Rosado N.V.,Spain_Sierras de Málaga,3.8,View shops,Rose,Spain,Sierras de Málaga,N.V.,Rosé
+275,Girolamo Russo,Etna Rosato 2017,Italy_Etna,3.8,View shops,Rose,Italy,Etna,2017,Rosé
+276,MacPhail,Rosé of Pinot Noir N.V.,United States_Sonoma Coast,3.8,View shops,Rose,United States,Sonoma Coast,N.V.,Pinot
+277,Bressan,Rosantico 2012,Italy_Venezia Giulia,3.8,View shops,Rose,Italy,Venezia Giulia,2012,Rosé
+278,Château Musar,Musar Jeune Rosé 2015,Lebanon_Bekaa Valley,3.8,View shops,Rose,Lebanon,Bekaa Valley,2015,Rosé
+279,Serge Horiot,En Valingrain Rosé des Riceys 2010,France_Rosé des Riceys,3.8,View shops,Rose,France,Rosé des Riceys,2010,Rosé
+280,Williamson,Adore Rosé N.V.,United States_Sonoma County,3.8,View shops,Rose,United States,Sonoma County,N.V.,Rosé
+281,Château Vannières,Bandol Rosé 2017,France_Bandol,3.8,View shops,Rose,France,Bandol,2017,Rosé
+282,Praesidium,Cerasuolo d'Abruzzo Superiore 2016,Italy_Cerasuolo d'Abruzzo,3.8,View shops,Rose,Italy,Cerasuolo d'Abruzzo,2016,Rosé
+283,Bastide de la Ciselette,Bandol Rosé 2017,France_Bandol,3.8,View shops,Rose,France,Bandol,2017,Rosé
+284,Gulfi,Rosà 2009,Italy_Terre Siciliane,3.8,View shops,Rose,Italy,Terre Siciliane,2009,Rosé
+285,Tenshen,Rosé N.V.,United States_Central Coast,3.7,View shops,Rose,United States,Central Coast,N.V.,Rosé
+286,Angels & Cowboys,Rosé 2017,United States_Sonoma County,3.7,View shops,Rose,United States,Sonoma County,2017,Rosé
+287,La Bastide Blanche,Bandol Rosé 2011,France_Bandol,3.7,View shops,Rose,France,Bandol,2011,Rosé
+288,Cirelli,Cerasuolo d'Abruzzo 2016,Italy_Cerasuolo d'Abruzzo,3.7,View shops,Rose,Italy,Cerasuolo d'Abruzzo,2016,Rosé
+289,Domaine de la Mordoree,La Dame Rousse Tavel Rosé 2017,France_Tavel,3.7,View shops,Rose,France,Tavel,2017,Tavel
+290,Archery Summit,Vireton Rosé N.V.,United States_Willamette Valley,3.7,View shops,Rose,United States,Willamette Valley,N.V.,Rosé
+291,Domaine de la Mordoree,La Dame Rousse Tavel Rosé 2014,France_Tavel,3.7,View shops,Rose,France,Tavel,2014,Tavel
+292,Enderle & Moll,Spätburgunder Rosé N.V.,Germany_Baden,3.7,View shops,Rose,Germany,Baden,N.V.,Rosé
+293,Luli,Rosé N.V.,United States_Central Coast,3.7,View shops,Rose,United States,Central Coast,N.V.,Rosé
+294,Domaine Bruno Clair,Marsannay Rosé 2017,France_Marsannay,3.7,View shops,Rose,France,Marsannay,2017,Rosé
+295,Grosjean,Prëmetta 2015,Italy_Valle d'Aosta,3.7,View shops,Rose,Italy,Valle d'Aosta,2015,Rosé
+296,Silverado,Sangiovese Rosato 2014,United States_Stags Leap District,3.7,View shops,Rose,United States,Stags Leap District,2014,Sangiovese
+297,Kuhlman Cellars,Hensell 2016,United States_Texas High Plains,3.7,View shops,Rose,United States,Texas High Plains,2016,Rosé
+298,Bodegas F. Rubio,Herencia Rosado 2016,Mexico_Valle de Guadalupe,3.7,View shops,Rose,Mexico,Valle de Guadalupe,2016,Rosé
+299,Serge Horiot,En Barmont Rosé des Riceys 2014,France_Rosé des Riceys,3.7,View shops,Rose,France,Rosé des Riceys,2014,Rosé
+300,Serge Horiot,En Barmont Rosé des Riceys 2012,France_Rosé des Riceys,3.7,View shops,Rose,France,Rosé des Riceys,2012,Rosé
+301,Crios,Rosé of Malbec 2015,Argentina_Lujan de Cuyo,3.6,View shops,Rose,Argentina,Lujan de Cuyo,2015,Rosé
+302,Château Baudare,Rosé de Saignée Fronton N.V.,France_Fronton,3.6,View shops,Rose,France,Fronton,N.V.,Rosé
+303,Trump,Rosé N.V.,United States_Monticello,3.6,View shops,Rose,United States,Monticello,N.V.,Rosé
+304,Domaine de la Tour du Bon,Bandol Rosé 2011,France_Bandol,3.6,View shops,Rose,France,Bandol,2011,Rosé
+305,Louis Jadot,Rosé De Marsannay Domaine Clair-Dau 2018,France_Marsannay,3.6,View shops,Rose,France,Marsannay,2018,Rosé
+306,Aldo Viola,Saignée Rosato 2016,Italy_Terre Siciliane,3.6,View shops,Rose,Italy,Terre Siciliane,2016,Rosé
+307,Venetsanos,Anagallis 2018,Greece_Santorini,3.6,View shops,Rose,Greece,Santorini,2018,Rosé
+308,Marisa Cuomo,Costa d'Amalfi Rosato 2017,Italy_Costa d'Amalfi,3.6,View shops,Rose,Italy,Costa d'Amalfi,2017,Rosé
+309,Château Musar,Rosé (Gaston Hochar) 2014,Lebanon_Bekaa Valley,3.6,View shops,Rose,Lebanon,Bekaa Valley,2014,Rosé
+310,Hauvette,Petra Rosé 2016,France_Les Baux-de-Provence,3.6,View shops,Rose,France,Les Baux-de-Provence,2016,Rosé
+311,Château de l'Aumerade,Côtes de Provence Rosé N.V.,France_Côtes de Provence,3.5,View shops,Rose,France,Côtes de Provence,N.V.,Provence
+312,Terre de Mistral,Fanette 2016,France_Méditerranée,3.5,View shops,Rose,France,Méditerranée,2016,Rosé
+313,Kracher,Rosé Zweigelt Trocken N.V.,Austria_Burgenland,3.5,View shops,Rose,Austria,Burgenland,N.V.,Rosé
+314,JCB (Jean-Charles Boisset),JCB No. 5 Rosé 2015,France_Côtes de Provence,3.5,View shops,Rose,France,Côtes de Provence,2015,Rosé
+315,Blue Valley,Rosé N.V.,United States_Virginia,3.5,View shops,Rose,United States,Virginia,N.V.,Rosé
+316,Hesketh,Wild at Heart Rosé N.V.,Australia_South Australia,3.5,View shops,Rose,Australia,South Australia,N.V.,Rosé
+317,Domaine de Tamary,Côtes de Provence Rosé 2014,France_Côtes de Provence,3.4,View shops,Rose,France,Côtes de Provence,2014,Provence
+318,Zurab Topuridze,Chkhaveri Dry Rosé (ჩხავერი ვარდისფერი) 2012,Georgia_Kakheti,3.3,View shops,Rose,Georgia,Kakheti,2012,Rosé
+319,Tsantali,Agioritikos Rosé N.V.,Greece_Macedonia,3.1,View shops,Rose,Greece,Macedonia,N.V.,Rosé

@@ -1,0 +1,2536 @@
+,winery,wine,location,rating,price
+0,Château d'Yquem,Sauternes 1990,"France
+·
+Sauternes",4.8,$449.99
+1,Château d'Yquem,Sauternes 2017,"France
+·
+Sauternes",4.8,$365
+2,Château d'Yquem,Sauternes 1996,"France
+·
+Sauternes",4.7,$445
+3,Château d'Yquem,Sauternes 2002,"France
+·
+Sauternes",4.7,$375.99
+4,Château d'Yquem,Sauternes 2008,"France
+·
+Sauternes",4.7,$395
+5,Château d'Yquem,Sauternes 2006,"France
+·
+Sauternes",4.7,$324.99
+6,Quintarelli Giuseppe,Recioto della Valpolicella Classico 2004,"Italy
+·
+Recioto della Valpolicella",4.7,$284.99
+7,Dal Forno Romano,Vigna Seré Veneto Passito Rosso 2004,"Italy
+·
+Veneto",4.7,$274.99
+8,Dal Forno Romano,Vigna Seré Veneto Passito Rosso 2003,"Italy
+·
+Veneto",4.7,$349.99
+9,Kracher,Grande Cuvée Nummer 6 Nouvelle Vague Trockenbeerenauslese 2001,"Austria
+·
+Burgenland",4.7,$75.99
+10,Avignonesi,Vin Santo di Montepulciano Occhio di Pernice 1994,"Italy
+·
+Vin Santo di Montepulciano",4.6,$250
+11,Avignonesi,Vin Santo di Montepulciano N.V.,"Italy
+·
+Vin Santo di Montepulciano",4.6,$219.98
+12,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2001,"France
+·
+Sauternes",4.6,$275
+13,Avignonesi,Vin Santo di Montepulciano 2002,"Italy
+·
+Vin Santo di Montepulciano",4.6,$219.98
+14,Jorge Ordóñez,No. 3 Old Vines 2005,"Spain
+·
+Málaga",4.6,$67.99
+15,Château de Fargues,Sauternes (Lur Saluces) 1990,"France
+·
+Sauternes",4.6,$275
+16,Donnafugata,Ben Ryé Passito di Pantelleria N.V.,"Italy
+·
+Passito di Pantelleria",4.5,$38.48
+17,Dolce,Dolce (Late Harvest) N.V.,"United States
+·
+Napa Valley",4.5,$52.78
+18,Donnafugata,Ben Ryé Passito di Pantelleria 2016,"Italy
+·
+Passito di Pantelleria",4.5,$45
+19,Château Climens,Barsac (Premier Grand Cru Classé) 2005,"France
+·
+Barsac",4.5,$165
+20,Didier Dagueneau (Louis-Benjamin Dagueneau),Les Jardins de Babylone Moelleux 2011,"France
+·
+Jurançon",4.5,$99.99
+21,Eroica,Ice Wine Riesling 2013,"United States
+·
+Columbia Valley",4.5,$63.99
+22,Rocca di Montegrossi,Vin Santo del Chianti Classico 2007,"Italy
+·
+Vin Santo del Chianti Classico",4.5,$75
+23,Inniskillin,Riesling Icewine N.V.,"Canada
+·
+Niagara Peninsula",4.4,$76.99
+24,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2009,"France
+·
+Sauternes",4.4,$59.99
+25,Inniskillin,Cabernet Franc Icewine N.V.,"Canada
+·
+Niagara Peninsula",4.4,$98.99
+26,Isole e Olena,Vin Santo del Chianti Classico N.V.,"Italy
+·
+Vin Santo del Chianti Classico",4.4,$60.49
+27,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2005,"France
+·
+Sauternes",4.4,$78.99
+28,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2011,"France
+·
+Sauternes",4.4,$79.99
+29,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2009,"France
+·
+Sauternes",4.4,$129.99
+30,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2001,"France
+·
+Sauternes",4.4,$109.99
+31,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2007,"France
+·
+Sauternes",4.4,$65.99
+32,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2009,"France
+·
+Sauternes",4.4,$113.99
+33,Inniskillin,Vidal Icewine 2014,"Canada
+·
+Niagara Peninsula",4.4,$59.95
+34,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2002,"France
+·
+Sauternes",4.4,$68
+35,Royal Tokaji,5 Puttonyos Aszú (Red Label) 2013,"Hungary
+·
+Tokaj",4.4,$61.99
+36,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2011,"France
+·
+Sauternes",4.4,$87.99
+37,Inniskillin,Riesling Icewine 2014,"Canada
+·
+Niagara Peninsula",4.4,$74.99
+38,Château de Fargues,Sauternes (Lur Saluces) 2005,"France
+·
+Sauternes",4.4,$135
+39,Inniskillin,Cabernet Franc Icewine 2015,"Canada
+·
+Niagara Peninsula",4.4,$98.99
+40,Château Climens,Barsac (Premier Grand Cru Classé) 2014,"France
+·
+Barsac",4.4,$125
+41,Château Climens,Barsac (Premier Grand Cru Classé) 2003,"France
+·
+Barsac",4.4,$171.99
+42,Château Climens,Barsac (Premier Grand Cru Classé) 2011,"France
+·
+Barsac",4.4,$159.99
+43,Coltibuono,Vin Santo Del Chianti Classico Occhio Di Pernice N.V.,"Italy
+·
+Vin Santo del Chianti Classico",4.4,$65.98
+44,St. Michael-Eppan,Sanct Valentin Comtess Passito 2011,"Italy
+·
+Südtirol - Alto Adige",4.4,$38.99
+45,Domaine de la Bergerie (Yves Guégniard),Quarts de Chaume Grand Cru N.V.,"France
+·
+Quarts de Chaume",4.4,$49.99
+46,Topaz Wines,Special Select Late Harvest 2005,"United States
+·
+California",4.4,$44.99
+47,Château Guiraud,Sauternes (Premier Grand Cru Classé) N.V.,"France
+·
+Sauternes",4.3,$44.99
+48,Château Suduiraut,Sauternes (Premier Grand Cru Classé) N.V.,"France
+·
+Sauternes",4.3,$65.99
+49,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1989,"France
+·
+Sauternes",4.3,$95
+50,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2003,"France
+·
+Sauternes",4.3,$69.99
+51,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2006,"France
+·
+Sauternes",4.3,$77.99
+52,Inniskillin,Vidal Icewine 2017,"Canada
+·
+Niagara Peninsula",4.3,$53.99
+53,Château Guiraud,Sauternes (Premier Grand Cru Classé) 1998,"France
+·
+Sauternes",4.3,$92.99
+54,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2008,"France
+·
+Sauternes",4.3,$36.99
+55,San Giusto a Rentennano,Vin San Giusto N.V.,"Italy
+·
+Vin Santo",4.3,$164.98
+56,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2003,"France
+·
+Sauternes",4.3,$69.99
+57,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2001,"France
+·
+Sauternes",4.3,$99.99
+58,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2009,"France
+·
+Sauternes",4.3,$76.99
+59,Inniskillin,Riesling Icewine 2017,"Canada
+·
+Niagara Peninsula",4.3,$74.99
+60,Inniskillin,Cabernet Franc Icewine 2012,"Canada
+·
+Niagara Peninsula",4.3,$103.99
+61,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2014,"France
+·
+Barsac",4.3,$50.99
+62,Inniskillin,Riesling Icewine 2015,"Canada
+·
+Niagara Peninsula",4.3,$76.99
+63,Moulin Touchais,Côteaux du Layon 1981,"France
+·
+Côteaux du Layon",4.3,$57.99
+64,Giesen,The Brothers Late Harvest Sauvignon Blanc 2013,"New Zealand
+·
+Marlborough",4.3,$34.99
+65,Hugel,Sélection de Grains Nobles Gewürztraminer 2007,"France
+·
+Alsace",4.3,$372.99
+66,Maculan,Acininobili 2009,"Italy
+·
+Breganze",4.3,$42.99
+67,Fritz Haag,Brauneberger Juffer Sonnenuhr Riesling Auslese 2004,"Germany
+·
+Brauneberg",4.3,$49.99
+68,Château Gravas,Sauternes 2016,"France
+·
+Sauternes",4.3,$32
+69,Shumi,Zigu (ზიგუ) N.V.,"Georgia
+·
+Kakheti",4.3,$26.99
+70,Ansgar Clüsserath,Trittenheimer Apotheke Riesling Spätlese 2016,"Germany
+·
+Mosel",4.3,$33.99
+71,Fèlsina,Vin Santo del Chianti Classico N.V.,"Italy
+·
+Vin Santo del Chianti Classico",4.2,$54.99
+72,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2011,"France
+·
+Sauternes",4.2,$81.99
+73,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2013,"France
+·
+Sauternes",4.2,$83.99
+74,Château Guiraud,Sauternes (Premier Grand Cru Classé) 1996,"France
+·
+Sauternes",4.2,$97.99
+75,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2009,"France
+·
+Sauternes",4.2,$75.99
+76,Moulin Touchais,Côteaux du Layon 1997,"France
+·
+Côteaux du Layon",4.2,$81.99
+77,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2014,"France
+·
+Sauternes",4.2,$81.99
+78,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2005,"France
+·
+Sauternes",4.2,$69.99
+79,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2015,"France
+·
+Sauternes",4.2,$82.99
+80,Fèlsina,Vin Santo del Chianti Classico 2006,"Italy
+·
+Vin Santo del Chianti Classico",4.2,$49.99
+81,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2005,"France
+·
+Sauternes",4.2,$71.99
+82,Fontodi,Vin Santo del Chianti Classico N.V.,"Italy
+·
+Vin Santo del Chianti Classico",4.2,$109.99
+83,Disznókó,Tokaji Aszú 5 Puttonyos 2010,"Hungary
+·
+Tokaj",4.2,$49.99
+84,Kracher,Beerenauslese Zweigelt 2017,"Austria
+·
+Burgenland",4.2,$43.99
+85,Fèlsina,Vin Santo del Chianti Classico 2007,"Italy
+·
+Vin Santo del Chianti Classico",4.2,$48.97
+86,Moulin Touchais,Côteaux du Layon 1985,"France
+·
+Côteaux du Layon",4.2,$75.99
+87,Santo,Vinsanto 2005,"Greece
+·
+Santorini",4.2,$64.99
+88,Château Les Justices,Sauternes 2015,"France
+·
+Sauternes",4.2,$58.99
+89,Inniskillin,Riesling Icewine 2014,"Canada
+·
+Okanagan Valley",4.2,$99.99
+90,Hugel,Sélection de Grains Nobles Riesling 2011,"France
+·
+Alsace",4.2,$199.99
+91,Inniskillin,Cabernet Franc Icewine 2017,"Canada
+·
+Niagara Peninsula",4.2,$94.99
+92,François Chidaine,Les Tuffeaux Montlouis Sur Loire 2017,"France
+·
+Montlouis-sur-Loire",4.2,$39.99
+93,Dr. Loosen,Riesling Eiswein 2016,"Germany
+·
+Mosel",4.2,$89.99
+94,Domaine Zind Humbrecht,Pinot Gris Alsace Grand Cru Rangen de Thann Clos Saint Urbain Sélection Grains Nobles 2009,"France
+·
+Alsace Grand Cru 'Rangen'",4.2,$96.99
+95,Castello di Monsanto,Vin Santo Del Chianti Classico La Chimera 2005,"Italy
+·
+Vin Santo del Chianti Classico",4.2,$53.99
+96,Mas d'en Gil,Nus Priorat vi dolç Natural 2013,"Spain
+·
+Priorat",4.2,$42.99
+97,Wagner Vineyards,Vidal Blanc Ice 2016,"United States
+·
+Finger Lakes",4.2,$25.99
+98,Kracher,Cuvée Beerenauslese N.V.,"Austria
+·
+Burgenland",4.1,$38.49
+99,Cappellano,Barolo Chinato N.V.,"Italy
+·
+Barolo Chinato",4.1,$75
+100,Selbach-Oster,Zeltinger Sonnenuhr Riesling Auslese 2015,"Germany
+·
+Mosel",4.1,$32.99
+101,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2013,"France
+·
+Sauternes",4.1,$70.99
+102,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2015,"France
+·
+Sauternes",4.1,$54.99
+103,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2015,"France
+·
+Barsac",4.1,$40.99
+104,Trimbach,Gewurztraminer Alsace Vendanges Tardives 2011,"France
+·
+Alsace",4.1,$44.99
+105,Domaine Cauhapé,Symphonie de Novembre Jurançon 2011,"France
+·
+Jurançon",4.1,$29.99
+106,Château Filhot,Sauternes (Grand Cru Classé) 2001,"France
+·
+Sauternes",4.1,$42.99
+107,Moulin Touchais,Côteaux du Layon 1994,"France
+·
+Côteaux du Layon",4.1,$42.99
+108,Château Doisy-Vedrines,Château Petit Vedrines Sauternes 2011,"France
+·
+Sauternes",4.1,$34.99
+109,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2016,"France
+·
+Sauternes",4.1,$71.99
+110,Moulin Touchais,Côteaux du Layon 1968,"France
+·
+Côteaux du Layon",4.1,$163.99
+111,Florio,Malvasia delle Lipari 2009,"Italy
+·
+Malvasia delle Lipari",4.1,$59.99
+112,Reichsgraf von Kesselstatt,Scharzhofberger Riesling Spatlese 2016,"Germany
+·
+Mosel",4.1,$27.99
+113,Cornarea,Tarasco Passito 2011,"Italy
+·
+Piemonte",4.1,$39.99
+114,R.L. Buller & Son,Calliope Rare Muscat N.V.,"Australia
+·
+Rutherglen",4.1,$79.99
+115,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2010,"France
+·
+Sauternes",4.1,$49.99
+116,Château Suduiraut,Castelnau de Suduiraut Sauternes 2010,"France
+·
+Sauternes",4.0,$36.99
+117,Bodegas Bentomiz,Ariyanas Naturalmente Dulce N.V.,"Spain
+·
+Andalucía",4.0,$29.99
+118,Kracher,Cuvée Beerenauslese 2017,"Austria
+·
+Burgenland",4.0,$35.99
+119,Baumard,Côteaux du Layon Carte d'Or 2015,"France
+·
+Côteaux du Layon",4.0,$28.99
+120,Ansgar Clüsserath,Trittenheimer Apotheke Riesling Spätlese N.V.,"Germany
+·
+Mosel",4.0,$38.49
+121,Bénédicte et Stéphane Tissot,Macvin du Jura Blanc N.V.,"France
+·
+Jura",4.0,$45
+122,Camin Larredya,Costat Darrèr Jurançon 2017,"France
+·
+Jurançon",4.0,$33.99
+123,COS,Aestas Siciliae 2014,"Italy
+·
+Terre Siciliane",4.0,$34.99
+124,Barberani,Calcaia Orvieto Classico Superiore Dolce 2014,"Italy
+·
+Orvieto Classico",4.0,$57
+125,Château Doisy-Vedrines,Château Petit Vedrines Sauternes 2013,"France
+·
+Sauternes",4.0,$34.99
+126,Château Doisy-Vedrines,Château Petit Vedrines Sauternes 2015,"France
+·
+Sauternes",4.0,$35.99
+127,Wagner Vineyards,Riesling Ice 2017,"United States
+·
+Finger Lakes",4.0,$26.99
+128,Baumard,Quarts de Chaume 2015,"France
+·
+Quarts de Chaume",4.0,$90.99
+129,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2011,"France
+·
+Sauternes",3.9,$122.99
+130,Château Guiraud,Petit Guiraud Sauternes 2016,"France
+·
+Sauternes",3.9,$40.99
+131,Yarden,Heights Gewürztraminer 2017,"Israel
+·
+Galilee",3.9,$33.99
+132,Château Doisy-Vedrines,Château Petit Vedrines Sauternes 2012,"France
+·
+Sauternes",3.9,$27.99
+133,Cave Spring,Riesling Icewine 2014,"Canada
+·
+Niagara Peninsula",3.9,$54.99
+134,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2016,"France
+·
+Sauternes",3.9,$41.99
+135,Schloss Lieser,Niederberg Helden Riesling Spätlese 2016,"Germany
+·
+Mosel",3.9,$42.99
+136,Chateau Ste. Michelle,Ethos Reserve Late Harvest Riesling 2014,"United States
+·
+Columbia Valley",3.9,$35.99
+137,Château Laribotte,Sauternes 2016,"France
+·
+Sauternes",3.9,$44.99
+138,Château Guiraud,Petit Guiraud Sauternes 2013,"France
+·
+Sauternes",3.8,$37.99
+139,Château Guiraud,Petit Guiraud Sauternes 2015,"France
+·
+Sauternes",3.8,$44.99
+140,Château La Fleur d’Or,Sauternes 2013,"France
+·
+Sauternes",3.8,$39.99
+141,Castellare,Vin Santo del Chianti Classico S. Niccolò 2012,"Italy
+·
+Vin Santo del Chianti Classico",3.8,$34.99
+142,Cave Spring,Riesling Icewine 2016,"Canada
+·
+Niagara Peninsula",3.8,$74.99
+143,Eifel Pfeiffer,Eiswein 2016,"Germany
+·
+Rheinhessen",3.8,$29.99
+144,Wwe. Dr. H. Thanisch - Erben Thanisch,Bernkasteler Badstube Riesling Spätlese 2016,"Germany
+·
+Mosel",3.8,$47.99
+145,Château Filhot,Château Pineau du Rey Sauternes 2012,"France
+·
+Sauternes",3.7,$26.99
+146,Château Laribotte,Château Violet-Lamothe Sauternes 2015,"France
+·
+Sauternes",3.7,$35.99
+147,Château Suduiraut,Lions de Suduiraut Sauternes 2016,"France
+·
+Sauternes",3.7,$35.99
+148,Domaine de Montbourgeau,L'Etoile Vin Jaune 2010,"France
+·
+L'Etoile",3.7,$81.99
+149,Bonny Doon,Le Vol Des Anges 2007,"United States
+·
+Arroyo Seco",3.7,$30.99
+150,Oremus,Eszencia 2003,"Hungary
+·
+Tokaj",4.8,View shops
+151,Quintarelli Giuseppe,Recioto della Valpolicella Classico 1995,"Italy
+·
+Recioto della Valpolicella",4.8,View shops
+152,Château d'Yquem,Sauternes 1989,"France
+·
+Sauternes",4.8,View shops
+153,Quintarelli Giuseppe,Recioto della Valpolicella Classico 2007,"Italy
+·
+Recioto della Valpolicella",4.8,View shops
+154,Château de Fargues,Sauternes (Lur Saluces) 1985,"France
+·
+Sauternes",4.7,View shops
+155,Paolo Bea,Montefalco Sagrantino Passito 2008,"Italy
+·
+Montefalco Sagrantino",4.7,View shops
+156,Château d'Yquem,Sauternes 1998,"France
+·
+Sauternes",4.7,View shops
+157,Château d'Yquem,Sauternes 1999,"France
+·
+Sauternes",4.7,View shops
+158,Château d'Yquem,Sauternes 1995,"France
+·
+Sauternes",4.7,View shops
+159,Château d'Yquem,Sauternes 2003,"France
+·
+Sauternes",4.7,View shops
+160,Château d'Yquem,Sauternes 1986,"France
+·
+Sauternes",4.7,View shops
+161,Château d'Yquem,Sauternes 2004,"France
+·
+Sauternes",4.7,View shops
+162,Château d'Yquem,Sauternes 1988,"France
+·
+Sauternes",4.7,View shops
+163,Château d'Yquem,Sauternes 1983,"France
+·
+Sauternes",4.7,View shops
+164,Château d'Yquem,Sauternes 2013,"France
+·
+Sauternes",4.7,View shops
+165,Château d'Yquem,Sauternes 2000,"France
+·
+Sauternes",4.7,View shops
+166,Château d'Yquem,Sauternes 2009,"France
+·
+Sauternes",4.7,View shops
+167,Quintarelli Giuseppe,Recioto della Valpolicella Classico 1997,"Italy
+·
+Recioto della Valpolicella",4.7,View shops
+168,Quintarelli Giuseppe,Recioto della Valpolicella Classico 2001,"Italy
+·
+Recioto della Valpolicella",4.7,View shops
+169,Château Mossé,Rivesaltes 1946,"France
+·
+Rivesaltes",4.7,View shops
+170,Dolce,Dolce (Late Harvest) 2013,"United States
+·
+Napa Valley",4.7,View shops
+171,Avignonesi,Vin Santo di Montepulciano 2001,"Italy
+·
+Vin Santo di Montepulciano",4.7,View shops
+172,Château Mossé,Rivesaltes 1949,"France
+·
+Rivesaltes",4.7,View shops
+173,Badoz,Vin Jaune Côtes du Jura 2011,"France
+·
+Côtes du Jura",3.6,$39.99
+174,Contini,Vernaccia di Oristano 2014,"Italy
+·
+Vernaccia di Oristano",3.5,$27.99
+175,Montemercurio,Vin Santo di Montepulciano 1990,"Italy
+·
+Vin Santo di Montepulciano",4.7,View shops
+176,Sine Qua Non,Mr. K The Straw Man 2006,"United States
+·
+California",4.7,View shops
+177,Château Gilette,Sauternes (Crème de Tête) 1971,"France
+·
+Sauternes",4.7,View shops
+178,Château Climens,Barsac (Premier Grand Cru Classé) 1988,"France
+·
+Barsac",4.6,View shops
+179,Klein Constantia,Vin de Constance (Natural Sweet) 2008,"South Africa
+·
+Constantia",4.6,View shops
+180,Château d'Yquem,Sauternes 1994,"France
+·
+Sauternes",4.6,View shops
+181,Château d'Yquem,Sauternes 1991,"France
+·
+Sauternes",4.6,View shops
+182,Château d'Yquem,Sauternes 1981,"France
+·
+Sauternes",4.6,View shops
+183,Oremus,Tokaji Aszú 6 Puttonyos 2005,"Hungary
+·
+Tokaj",4.6,View shops
+184,Château d'Yquem,Sauternes 1984,"France
+·
+Sauternes",4.6,View shops
+185,Château Guiraud,Sauternes (Premier Grand Cru Classé) 1990,"France
+·
+Sauternes",4.6,View shops
+186,Poli Distillerie,Jacopo Poli Barrique N.V.,"Italy
+·
+Veneto",4.6,View shops
+187,Klein Constantia,Vin de Constance (Natural Sweet) 2013,"South Africa
+·
+Constantia",4.6,View shops
+188,Château Climens,Barsac (Premier Grand Cru Classé) 2001,"France
+·
+Barsac",4.6,View shops
+189,Château Gilette,Sauternes (Crème de Tête) 1989,"France
+·
+Sauternes",4.6,View shops
+190,Château Climens,Barsac (Premier Grand Cru Classé) 1989,"France
+·
+Barsac",4.6,View shops
+191,Philippe Foreau,Reserve Vouvray Moelleux 2009,"France
+·
+Vouvray",4.6,View shops
+192,Château Climens,Barsac (Premier Grand Cru Classé) 2015,"France
+·
+Barsac",4.6,View shops
+193,Château Climens,Barsac (Premier Grand Cru Classé) 1983,"France
+·
+Barsac",4.6,View shops
+194,Avignonesi,Vin Santo di Montepulciano 1998,"Italy
+·
+Vin Santo di Montepulciano",4.6,View shops
+195,Paolo Bea,Montefalco Sagrantino Passito 2009,"Italy
+·
+Montefalco Sagrantino",4.6,View shops
+196,Domaine Huet,Cuvée Constance 2003,"France
+·
+Vouvray",4.6,View shops
+197,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1981,"France
+·
+Sauternes",4.6,View shops
+198,Château Climens,Barsac (Premier Grand Cru Classé) 1985,"France
+·
+Barsac",4.6,View shops
+199,Cantina del Redi,Vin Santo di Montepulciano 1995,"Italy
+·
+Vin Santo di Montepulciano",4.6,View shops
+200,Ornellaia,Ornus 2009,"Italy
+·
+Toscana",4.6,View shops
+201,Vientos,Alcyone 2007,"Uruguay
+·
+Atlàntida",4.6,View shops
+202,Pravis,Arèle 2006,"Italy
+·
+Trentino",4.6,View shops
+203,Inniskillin,Vidal Icewine 2006,"Canada
+·
+Niagara Peninsula",4.5,View shops
+204,Donnafugata,Ben Ryé Passito di Pantelleria 2013,"Italy
+·
+Passito di Pantelleria",4.5,View shops
+205,Royal Tokaji,Aszú 6 puttonyos 2013,"Hungary
+·
+Tokaj",4.5,View shops
+206,Donnafugata,Ben Ryé Passito di Pantelleria 2017,"Italy
+·
+Passito di Pantelleria",4.5,View shops
+207,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1990,"France
+·
+Sauternes",4.5,View shops
+208,Groot Constantia,Grand Constance 2015,"South Africa
+·
+Constantia",4.5,View shops
+209,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1988,"France
+·
+Sauternes",4.5,View shops
+210,Château d'Yquem,Sauternes 1993,"France
+·
+Sauternes",4.5,View shops
+211,José Maria da Fonseca,Setúbal 20 Anos Moscatel Roxo N.V.,"Portugal
+·
+Setúbal",4.5,View shops
+212,Donnafugata,Ben Ryé Passito di Pantelleria 2015,"Italy
+·
+Passito di Pantelleria",4.5,View shops
+213,Inniskillin,Vidal Icewine 2016,"Canada
+·
+Niagara Peninsula",4.5,View shops
+214,Château Climens,Barsac (Premier Grand Cru Classé) 2009,"France
+·
+Barsac",4.5,View shops
+215,Dolce,Dolce (Late Harvest) 2012,"United States
+·
+Napa Valley",4.5,View shops
+216,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1983,"France
+·
+Sauternes",4.5,View shops
+217,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1986,"France
+·
+Sauternes",4.5,View shops
+218,Dolce,Dolce (Late Harvest) 2008,"United States
+·
+Napa Valley",4.5,View shops
+219,Jorge Ordóñez,No. 3 Old Vines N.V.,"Spain
+·
+Málaga",4.5,View shops
+220,Château Climens,Barsac (Premier Grand Cru Classé) 2010,"France
+·
+Barsac",4.5,View shops
+221,Dolce,Dolce (Late Harvest) 2011,"United States
+·
+Napa Valley",4.5,View shops
+222,Dolce,Dolce (Late Harvest) 2009,"United States
+·
+Napa Valley",4.5,View shops
+223,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2009,"France
+·
+Sauternes",4.5,View shops
+224,Didier Dagueneau (Louis-Benjamin Dagueneau),Les Jardins de Babylone Moelleux 2009,"France
+·
+Jurançon",4.5,View shops
+225,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 1990,"France
+·
+Sauternes",4.5,View shops
+226,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 1986,"France
+·
+Sauternes",4.5,View shops
+227,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1982,"France
+·
+Sauternes",4.5,View shops
+228,Château de Fargues,Sauternes (Lur Saluces) 2007,"France
+·
+Sauternes",4.5,View shops
+229,Château Climens,Barsac (Premier Grand Cru Classé) 1986,"France
+·
+Barsac",4.5,View shops
+230,Secret Spot,Moscatel do Douro Mais de 40 Anos N.V.,"Portugal
+·
+Douro",4.5,View shops
+231,Château de Fargues,Sauternes (Lur Saluces) 1989,"France
+·
+Sauternes",4.5,View shops
+232,Château Climens,Barsac (Premier Grand Cru Classé) 1990,"France
+·
+Barsac",4.5,View shops
+233,Dolce,Dolce (Late Harvest) 2006,"United States
+·
+Napa Valley",4.5,View shops
+234,Baumard,Quarts de Chaume 2005,"France
+·
+Quarts de Chaume",4.5,View shops
+235,Château de Fargues,Sauternes (Lur Saluces) 2010,"France
+·
+Sauternes",4.5,View shops
+236,Château de Fargues,Sauternes (Lur Saluces) 1998,"France
+·
+Sauternes",4.5,View shops
+237,Château Gilette,Sauternes (Crème de Tête) 1990,"France
+·
+Sauternes",4.5,View shops
+238,Château Guiraud,Sauternes (Premier Grand Cru Classé) 1983,"France
+·
+Sauternes",4.5,View shops
+239,Lis Neris,Venezia Giulia Tal Lùc Bianco Passito 2010,"Italy
+·
+Venezia Giulia",4.5,View shops
+240,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1975,"France
+·
+Sauternes",4.5,View shops
+241,Inniskillin,Cabernet Franc Icewine 2006,"Canada
+·
+Niagara Peninsula",4.5,View shops
+242,Cru d'Arche Pugneau,Sauternes 2011,"France
+·
+Sauternes",4.5,View shops
+243,Baumard,Quarts de Chaume 2012,"France
+·
+Quarts de Chaume",4.5,View shops
+244,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 1988,"France
+·
+Sauternes",4.5,View shops
+245,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 1997,"France
+·
+Sauternes",4.5,View shops
+246,Hugel,Sélection de Grains Nobles Gewürztraminer 1988,"France
+·
+Alsace",4.5,View shops
+247,Trefethen,Late Harvest Riesling 2013,"United States
+·
+Oak Knoll District",4.5,View shops
+248,Didier Dagueneau (Louis-Benjamin Dagueneau),Les Jardins de Babylone Moelleux 2014,"France
+·
+Jurançon",4.5,View shops
+249,Sine Qua Non,Mr. K The Noble Man (Viognier) 2006,"United States
+·
+San Luis Obispo County",4.5,View shops
+250,Hugel,Sélection de Grains Nobles Pinot Gris 2007,"France
+·
+Alsace",4.5,View shops
+251,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1976,"France
+·
+Sauternes",4.5,View shops
+252,Bussola,Recioto Della Valpolicella Classico 2012,"Italy
+·
+Recioto della Valpolicella",4.5,View shops
+253,Marco de Bartoli,Vergine Riserva 1988,"Italy
+·
+Marsala",4.5,View shops
+254,Dolce,Dolce (Late Harvest) 2005,"United States
+·
+Napa Valley",4.5,View shops
+255,Philippe Foreau,Reserve Vouvray Moelleux 2003,"France
+·
+Vouvray",4.5,View shops
+256,Hugel,Sélection de Grains Nobles Gewürztraminer 1999,"France
+·
+Alsace",4.5,View shops
+257,Château Gilette,Sauternes (Crème de Tête) 1983,"France
+·
+Sauternes",4.5,View shops
+258,Royal Tokaji,Mézes Mály 6 Puttonyos Aszú 2009,"Hungary
+·
+Tokaj",4.5,View shops
+259,Baumard,Quarts de Chaume 1990,"France
+·
+Quarts de Chaume",4.5,View shops
+260,Maculan,Acininobili 2006,"Italy
+·
+Breganze",4.5,View shops
+261,Domaine Huet,Vouvray Clos du Bourg Moelleux Première Trie 1989,"France
+·
+Vouvray",4.5,View shops
+262,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1976,"France
+·
+Sauternes",4.5,View shops
+263,Inniskillin,Vidal Icewine N.V.,"Canada
+·
+Niagara Peninsula",4.4,View shops
+264,Oremus,Tokaji Aszú 5 Puttonyos N.V.,"Hungary
+·
+Tokaj",4.4,View shops
+265,Royal Tokaji,5 Puttonyos Aszú (Blue Label) 2013,"Hungary
+·
+Tokaj",4.4,View shops
+266,Baumard,Quarts de Chaume N.V.,"France
+·
+Quarts de Chaume",4.4,View shops
+267,Royal Tokaji,5 Puttonyos Aszú (Blue Label) 2009,"Hungary
+·
+Tokaj",4.4,View shops
+268,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2005,"France
+·
+Sauternes",4.4,View shops
+269,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2006,"France
+·
+Sauternes",4.4,View shops
+270,Inniskillin,Vidal Icewine 2015,"Canada
+·
+Niagara Peninsula",4.4,View shops
+271,Antinori,Castello della Sala Muffato della Sala 2014,"Italy
+·
+Umbria",4.4,View shops
+272,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1988,"France
+·
+Sauternes",4.4,View shops
+273,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1989,"France
+·
+Sauternes",4.4,View shops
+274,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2002,"France
+·
+Sauternes",4.4,View shops
+275,Château Climens,Barsac (Premier Grand Cru Classé) 2006,"France
+·
+Barsac",4.4,View shops
+276,Bussola,Recioto Della Valpolicella Classico N.V.,"Italy
+·
+Recioto della Valpolicella",4.4,View shops
+277,Fèlsina,Vin Santo del Chianti Classico 2005,"Italy
+·
+Vin Santo del Chianti Classico",4.4,View shops
+278,Château de Fargues,Sauternes (Lur Saluces) 2006,"France
+·
+Sauternes",4.4,View shops
+279,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2002,"France
+·
+Sauternes",4.4,View shops
+280,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 1988,"France
+·
+Sauternes",4.4,View shops
+281,Dolce,Dolce (Late Harvest) 2010,"United States
+·
+Napa Valley",4.4,View shops
+282,Capichera,VT Vendemmia Tardiva 2014,"Italy
+·
+Isola dei Nuraghi",4.4,View shops
+283,Château Climens,Barsac (Premier Grand Cru Classé) 2007,"France
+·
+Barsac",4.4,View shops
+284,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2015,"France
+·
+Sauternes",4.4,View shops
+285,Inniskillin,Riesling Icewine 2008,"Canada
+·
+Niagara Peninsula",4.4,View shops
+286,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 1997,"France
+·
+Sauternes",4.4,View shops
+287,Capezzana,Vin Santo Di Carmignano Riserva 2007,"Italy
+·
+Carmignano",4.4,View shops
+288,Château de Fargues,Sauternes (Lur Saluces) 2003,"France
+·
+Sauternes",4.4,View shops
+289,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2002,"France
+·
+Sauternes",4.4,View shops
+290,Château de Fargues,Sauternes (Lur Saluces) 2001,"France
+·
+Sauternes",4.4,View shops
+291,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 1988,"France
+·
+Sauternes",4.4,View shops
+292,Királyudvar,Tokaji Aszú 6 Puttonyos 2007,"Hungary
+·
+Tokaj",4.4,View shops
+293,Château Nairac,Barsac (Grand Cru Classé) 2010,"France
+·
+Barsac",4.4,View shops
+294,Château Filhot,Sauternes (Grand Cru Classé) 1988,"France
+·
+Sauternes",4.4,View shops
+295,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 1990,"France
+·
+Sauternes",4.4,View shops
+296,Château Guiraud,Sauternes (Premier Grand Cru Classé) 1986,"France
+·
+Sauternes",4.4,View shops
+297,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1985,"France
+·
+Sauternes",4.4,View shops
+298,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 1998,"France
+·
+Sauternes",4.4,View shops
+299,Château de Fargues,Sauternes (Lur Saluces) 2009,"France
+·
+Sauternes",4.4,View shops
+300,Château de Fargues,Sauternes (Lur Saluces) 2011,"France
+·
+Sauternes",4.4,View shops
+301,Baumard,Quarts de Chaume 2007,"France
+·
+Quarts de Chaume",4.4,View shops
+302,Didier Dagueneau (Louis-Benjamin Dagueneau),Les Jardins de Babylone Moelleux 2006,"France
+·
+Jurançon",4.4,View shops
+303,Jean François Ganevat,Sul Q N.V.,"France
+·
+Côtes du Jura",4.4,View shops
+304,Bertani,Recioto della Valpolicella Classico Superiore 1990,"Italy
+·
+Recioto della Valpolicella",4.4,View shops
+305,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 1986,"France
+·
+Sauternes",4.4,View shops
+306,Château Rabaud-Promis,Sauternes (Premier Grand Cru Classé) 1989,"France
+·
+Sauternes",4.4,View shops
+307,Château Raymond-Lafon,Sauternes 1997,"France
+·
+Sauternes",4.4,View shops
+308,Leon Beyer,Gewürztraminer Sélection de Grains Nobles 1998,"France
+·
+Alsace",4.4,View shops
+309,Château Las Collas,Rivesaltes 1961,"France
+·
+Rivesaltes",4.4,View shops
+310,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 1986,"France
+·
+Barsac",4.4,View shops
+311,Trimbach,Gewurztraminer Alsace Selection de Grains Nobles 2001,"France
+·
+Alsace",4.4,View shops
+312,Horácio Simões,Single Cask Moscatel Roxo N.V.,"Portugal
+·
+Setúbal",4.4,View shops
+313,Ornellaia,Ornus 2013,"Italy
+·
+Toscana",4.4,View shops
+314,Kracher,Grande Cuvée Nummer 6 Nouvelle Vague Trockenbeerenauslese 2012,"Austria
+·
+Burgenland",4.4,View shops
+315,Château de Fargues,Sauternes (Lur Saluces) 2017,"France
+·
+Sauternes",4.4,View shops
+316,Hugel,Riesling Vendange Tardive 2009,"France
+·
+Alsace",4.4,View shops
+317,Pelee Island Winery,Vidal Icewine 2008,"Canada
+·
+Lake Erie North Shore",4.4,View shops
+318,Domaine Huet,Vouvray Le Mont Moelleux Première Trie 2009,"France
+·
+Vouvray",4.4,View shops
+319,Château Rabaud-Promis,Sauternes (Premier Grand Cru Classé) 1990,"France
+·
+Sauternes",4.4,View shops
+320,Sine Qua Non,Mr. K The Noble Man (Viognier) 2002,"United States
+·
+San Luis Obispo County",4.4,View shops
+321,Baumard,Quarts de Chaume 2002,"France
+·
+Quarts de Chaume",4.4,View shops
+322,Château de Fargues,Sauternes (Lur Saluces) 1986,"France
+·
+Sauternes",4.4,View shops
+323,Domaine Cauhapé,Quintessence du Petit Manseng Jurançon 2010,"France
+·
+Jurançon",4.4,View shops
+324,Château de Fargues,Sauternes (Lur Saluces) 1983,"France
+·
+Sauternes",4.4,View shops
+325,Sheldrake Point,Riesling Ice Wine N.V.,"United States
+·
+Finger Lakes",4.4,View shops
+326,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 1999,"France
+·
+Sauternes",4.4,View shops
+327,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1967,"France
+·
+Sauternes",4.4,View shops
+328,Capezzana,Vin Santo Di Carmignano Riserva 2011,"Italy
+·
+Carmignano",4.4,View shops
+329,Château Gilette,Sauternes (Crème de Tête) 1985,"France
+·
+Sauternes",4.4,View shops
+330,Merry Edwards,Late Harvest Sauvignon Blanc 2012,"United States
+·
+Russian River Valley",4.4,View shops
+331,Château Doisy-Daëne,L'Extravagant de Doisy-Daëne Sauternes 2010,"France
+·
+Sauternes",4.4,View shops
+332,Vignalta,Alpianæ 2015,"Italy
+·
+Colli Euganei Fior d'Arancio",4.4,View shops
+333,Rolet,Vin de Paille Arbois 2013,"France
+·
+Arbois",4.4,View shops
+334,Château Gilette,Sauternes (Crème de Tête) 1988,"France
+·
+Sauternes",4.4,View shops
+335,Leon Beyer,Gewürztraminer Vendanges Tardives 1998,"France
+·
+Alsace",4.4,View shops
+336,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1970,"France
+·
+Sauternes",4.4,View shops
+337,Fontodi,Vin Santo del Chianti Classico 2007,"Italy
+·
+Vin Santo del Chianti Classico",4.4,View shops
+338,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 1975,"France
+·
+Sauternes",4.4,View shops
+339,Peller Estates,Cabernet Franc Icewine N.V.,"Canada
+·
+Niagara Peninsula",4.3,View shops
+340,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2010,"France
+·
+Sauternes",4.3,View shops
+341,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2007,"France
+·
+Sauternes",4.3,View shops
+342,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2003,"France
+·
+Sauternes",4.3,View shops
+343,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1999,"France
+·
+Sauternes",4.3,View shops
+344,Inniskillin,Vidal Icewine 2012,"Canada
+·
+Niagara Peninsula",4.3,View shops
+345,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2007,"France
+·
+Sauternes",4.3,View shops
+346,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2005,"France
+·
+Sauternes",4.3,View shops
+347,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2003,"France
+·
+Sauternes",4.3,View shops
+348,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2008,"France
+·
+Sauternes",4.3,View shops
+349,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2010,"France
+·
+Sauternes",4.3,View shops
+350,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1997,"France
+·
+Sauternes",4.3,View shops
+351,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1997,"France
+·
+Sauternes",4.3,View shops
+352,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2003,"France
+·
+Sauternes",4.3,View shops
+353,Jorge Ordóñez,No. 2 Victoria 2014,"Spain
+·
+Málaga",4.3,View shops
+354,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2007,"France
+·
+Sauternes",4.3,View shops
+355,Château Raymond-Lafon,Sauternes 2007,"France
+·
+Sauternes",4.3,View shops
+356,Peller Estates,Cabernet Franc Icewine 2015,"Canada
+·
+Niagara Peninsula",4.3,View shops
+357,Oremus,Tokaji Aszú 3 Puttonyos 2000,"Hungary
+·
+Tokaj",4.3,View shops
+358,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2003,"France
+·
+Barsac",4.3,View shops
+359,Château Rieussec,Sauternes (Premier Grand Cru Classé) 1996,"France
+·
+Sauternes",4.3,View shops
+360,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1996,"France
+·
+Sauternes",4.3,View shops
+361,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2008,"France
+·
+Sauternes",4.3,View shops
+362,Château Raymond-Lafon,Sauternes 2009,"France
+·
+Sauternes",4.3,View shops
+363,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2010,"France
+·
+Sauternes",4.3,View shops
+364,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2006,"France
+·
+Sauternes",4.3,View shops
+365,Château Guiraud,Sauternes (Premier Grand Cru Classé) 1997,"France
+·
+Sauternes",4.3,View shops
+366,Château Guiraud,Sauternes (Premier Grand Cru Classé) 1999,"France
+·
+Sauternes",4.3,View shops
+367,Château Guiraud,Sauternes (Premier Grand Cru Classé) 1989,"France
+·
+Sauternes",4.3,View shops
+368,Château Climens,Barsac (Premier Grand Cru Classé) 2004,"France
+·
+Barsac",4.3,View shops
+369,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2004,"France
+·
+Sauternes",4.3,View shops
+370,Schloss Johannisberg,Grünlack Riesling Spätlese 2018,"Germany
+·
+Rheingau",4.3,View shops
+371,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 1996,"France
+·
+Sauternes",4.3,View shops
+372,Château Rabaud-Promis,Sauternes (Premier Grand Cru Classé) 2001,"France
+·
+Sauternes",4.3,View shops
+373,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2005,"France
+·
+Sauternes",4.3,View shops
+374,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 2001,"France
+·
+Sauternes",4.3,View shops
+375,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2001,"France
+·
+Sauternes",4.3,View shops
+376,Kunde,1904 Dessert Cuvée N.V.,"United States
+·
+Sonoma Valley",4.3,View shops
+377,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1995,"France
+·
+Sauternes",4.3,View shops
+378,Isole e Olena,Vin Santo del Chianti Classico 2006,"Italy
+·
+Vin Santo del Chianti Classico",4.3,View shops
+379,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2001,"France
+·
+Sauternes",4.3,View shops
+380,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2015,"France
+·
+Sauternes",4.3,View shops
+381,Château Raymond-Lafon,Sauternes 2011,"France
+·
+Sauternes",4.3,View shops
+382,Didier Dagueneau (Louis-Benjamin Dagueneau),Les Jardins de Babylone Moelleux 2012,"France
+·
+Jurançon",4.3,View shops
+383,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 1990,"France
+·
+Sauternes",4.3,View shops
+384,Ferrandes,Passito di Pantelleria 2008,"Italy
+·
+Passito di Pantelleria",4.3,View shops
+385,Château Climens,Barsac (Premier Grand Cru Classé) 1999,"France
+·
+Barsac",4.3,View shops
+386,Jean Bourdy,Galant des Abbesses N.V.,"France
+·
+Jura",4.3,View shops
+387,Château Nairac,Barsac (Grand Cru Classé) 2009,"France
+·
+Barsac",4.3,View shops
+388,Château de Malle,Sauternes (Grand Cru Classé) 2009,"France
+·
+Sauternes",4.3,View shops
+389,Château Raymond-Lafon,Sauternes 2003,"France
+·
+Sauternes",4.3,View shops
+390,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 2003,"France
+·
+Sauternes",4.3,View shops
+391,Baumard,Quarts de Chaume 2006,"France
+·
+Quarts de Chaume",4.3,View shops
+392,Château Climens,Barsac (Premier Grand Cru Classé) 2008,"France
+·
+Barsac",4.3,View shops
+393,Château Filhot,Sauternes (Grand Cru Classé) 2012,"France
+·
+Sauternes",4.3,View shops
+394,Selbach-Oster,Bernkasteler Badstube Riesling Spätlese N.V.,"Germany
+·
+Mosel",4.3,View shops
+395,Grgich Hills,Violetta Late Harvest 2013,"United States
+·
+Napa Valley",4.3,View shops
+396,Weingut Max Ferd. Richter,Mülheimer Sonnenlay Riesling Spätlese Feinherb 2007,"Germany
+·
+Mosel",4.3,View shops
+397,Moulin Touchais,Côteaux du Layon 2002,"France
+·
+Côteaux du Layon",4.3,View shops
+398,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 1989,"France
+·
+Sauternes",4.3,View shops
+399,Peller Estates,Icewine Riesling 2015,"Canada
+·
+Niagara Peninsula",4.3,View shops
+400,Domaine Huet,Vouvray Le Mont Moelleux Première Trie 2015,"France
+·
+Vouvray",4.3,View shops
+401,Fritz Haag,Brauneberger Juffer Sonnenuhr Riesling Auslese 2003,"Germany
+·
+Brauneberg",4.3,View shops
+402,Jorge Ordóñez,No. 2 Victoria 2011,"Spain
+·
+Málaga",4.3,View shops
+403,Coltibuono,Vin Santo Del Chianti Classico 2005,"Italy
+·
+Vin Santo del Chianti Classico",4.3,View shops
+404,Fritz Haag,Brauneberger Juffer Sonnenuhr Riesling Auslese 2016,"Germany
+·
+Brauneberg",4.3,View shops
+405,Domaine Huet,Vouvray Le Mont Moelleux Première Trie 2008,"France
+·
+Vouvray",4.3,View shops
+406,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2002,"France
+·
+Sauternes",4.3,View shops
+407,Coltibuono,Vin Santo Del Chianti Classico 2008,"Italy
+·
+Vin Santo del Chianti Classico",4.3,View shops
+408,Château de Fargues,Sauternes (Lur Saluces) 2016,"France
+·
+Sauternes",4.3,View shops
+409,Château Climens,Barsac (Premier Grand Cru Classé) 1995,"France
+·
+Barsac",4.3,View shops
+410,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2014,"France
+·
+Sauternes",4.3,View shops
+411,Château de Fargues,Sauternes (Lur Saluces) 2014,"France
+·
+Sauternes",4.3,View shops
+412,Château Filhot,Sauternes (Grand Cru Classé) 1996,"France
+·
+Sauternes",4.3,View shops
+413,Fritz Haag,Brauneberger Juffer Sonnenuhr Riesling Auslese 2017,"Germany
+·
+Brauneberg",4.3,View shops
+414,Château Rabaud-Promis,Sauternes (Premier Grand Cru Classé) 1997,"France
+·
+Sauternes",4.3,View shops
+415,Fanni Kertje,Örökség Tokaji Aszú 5 Puttonyos 2001,"Hungary
+·
+Tokaj",4.3,View shops
+416,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2016,"France
+·
+Sauternes",4.3,View shops
+417,Château de Malle,Sauternes (Grand Cru Classé) 2015,"France
+·
+Sauternes",4.3,View shops
+418,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2017,"France
+·
+Sauternes",4.3,View shops
+419,Graveyard Vineyards,Deliverance Limited Release N.V.,"United States
+·
+Paso Robles",4.3,View shops
+420,Klein Constantia,Vin de Constance (Natural Sweet) 2016,"South Africa
+·
+Constantia",4.3,View shops
+421,Inniskillin,Riesling Icewine 2007,"Canada
+·
+Niagara Peninsula",4.3,View shops
+422,Moulin Touchais,Côteaux du Layon 1984,"France
+·
+Côteaux du Layon",4.3,View shops
+423,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 1975,"France
+·
+Barsac",4.3,View shops
+424,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 2011,"France
+·
+Sauternes",4.3,View shops
+425,Sculpterra,J. Jagger Primitivo N.V.,"United States
+·
+Central Coast",4.3,View shops
+426,Château de Malle,Sauternes (Grand Cru Classé) 1989,"France
+·
+Sauternes",4.3,View shops
+427,Schloss Lieser,Niederberg Helden Riesling Auslese 2013,"Germany
+·
+Mosel",4.3,View shops
+428,Domaine de la Tournelle,Macvin du Jura N.V.,"France
+·
+Jura",4.3,View shops
+429,Château Raymond-Lafon,Sauternes 1990,"France
+·
+Sauternes",4.3,View shops
+430,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 1976,"France
+·
+Barsac",4.3,View shops
+431,Baumard,Quarts de Chaume 1973,"France
+·
+Quarts de Chaume",4.3,View shops
+432,Peller Estates,Icewine Riesling 2017,"Canada
+·
+Niagara Peninsula",4.3,View shops
+433,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 2014,"France
+·
+Sauternes",4.3,View shops
+434,Château Nairac,Barsac (Grand Cru Classé) 2008,"France
+·
+Barsac",4.3,View shops
+435,Château Pajzos,Tokaji Aszú 6 Puttonyos 1999,"Hungary
+·
+Tokaj",4.3,View shops
+436,Forstmeister Geltz-Zilliken,Saarburger Rausch Riesling Spätlese 2011,"Germany
+·
+Mosel",4.3,View shops
+437,Domaine Huet,Vouvray Le Mont Moelleux Première Trie 2011,"France
+·
+Vouvray",4.3,View shops
+438,Jos. Christoffel Jr.,Ürziger Würzgarten Riesling Auslese 2006,"Germany
+·
+Mosel",4.3,View shops
+439,Baumard,Quarts de Chaume 2011,"France
+·
+Quarts de Chaume",4.3,View shops
+440,Jos. Christoffel Jr.,Ürziger Würzgarten Riesling Auslese 2009,"Germany
+·
+Mosel",4.3,View shops
+441,La Vialla,Occhio di Pernice Vin Santo 2012,"Italy
+·
+Toscana",4.3,View shops
+442,Domaine Huet,Vouvray Clos du Bourg Moelleux 2016,"France
+·
+Vouvray",4.3,View shops
+443,Marquis de Boaca,Rivesaltes 1955,"France
+·
+Rivesaltes",4.3,View shops
+444,Coltibuono,Vin Santo Del Chianti Classico Occhio Di Pernice 2004,"Italy
+·
+Vin Santo del Chianti Classico",4.3,View shops
+445,Domaine Huet,Vouvray Le Mont Moelleux Première Trie 2002,"France
+·
+Vouvray",4.3,View shops
+446,Fontodi,Vin Santo del Chianti Classico 2001,"Italy
+·
+Vin Santo del Chianti Classico",4.3,View shops
+447,Albert Boxler,Vendanges Tardives Riesling Alsace Grand Cru 'Sommerberg' 2004,"France
+·
+Alsace Grand Cru 'Sommerberg'",4.3,View shops
+448,Château Gilette,Sauternes (Crème de Tête) 1976,"France
+·
+Sauternes",4.3,View shops
+449,Ton Rimbau,Porcellànic VI Xarel-lo Sur Lie 2011,"Spain
+·
+Penedès",4.3,View shops
+450,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) N.V.,"France
+·
+Barsac",4.2,View shops
+451,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) N.V.,"France
+·
+Sauternes",4.2,View shops
+452,Dr. Loosen,Riesling Beerenauslese N.V.,"Germany
+·
+Mosel",4.2,View shops
+453,Trimbach,Gewurztraminer Alsace Vendanges Tardives N.V.,"France
+·
+Alsace",4.2,View shops
+454,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2002,"France
+·
+Sauternes",4.2,View shops
+455,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2010,"France
+·
+Sauternes",4.2,View shops
+456,Château de Myrat,Sauternes (Grand Cru Classé) 2010,"France
+·
+Sauternes",4.2,View shops
+457,Château Filhot,Sauternes (Grand Cru Classé) 2009,"France
+·
+Sauternes",4.2,View shops
+458,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2009,"France
+·
+Sauternes",4.2,View shops
+459,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2003,"France
+·
+Sauternes",4.2,View shops
+460,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2005,"France
+·
+Barsac",4.2,View shops
+461,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2009,"France
+·
+Sauternes",4.2,View shops
+462,Schloss Johannisberg,Grünlack Riesling Spätlese 2015,"Germany
+·
+Rheingau",4.2,View shops
+463,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2014,"France
+·
+Sauternes",4.2,View shops
+464,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1998,"France
+·
+Sauternes",4.2,View shops
+465,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2006,"France
+·
+Sauternes",4.2,View shops
+466,Yalumba,Antique Tawny (Museum Reserve) N.V.,"Australia
+·
+South Eastern Australia",4.2,View shops
+467,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2007,"France
+·
+Barsac",4.2,View shops
+468,Château Filhot,Sauternes (Grand Cru Classé) 2005,"France
+·
+Sauternes",4.2,View shops
+469,Château Dereszla,Aszú 5 Puttonyos 2010,"Hungary
+·
+Tokaj",4.2,View shops
+470,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2010,"France
+·
+Barsac",4.2,View shops
+471,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2009,"France
+·
+Barsac",4.2,View shops
+472,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2005,"France
+·
+Barsac",4.2,View shops
+473,Château Filhot,Sauternes (Grand Cru Classé) 2010,"France
+·
+Sauternes",4.2,View shops
+474,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2004,"France
+·
+Barsac",4.2,View shops
+475,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2009,"France
+·
+Barsac",4.2,View shops
+476,Peller Estates,Vidal Icewine 2017,"Canada
+·
+Niagara Peninsula",4.2,View shops
+477,Château Raymond-Lafon,Sauternes 2005,"France
+·
+Sauternes",4.2,View shops
+478,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2014,"France
+·
+Barsac",4.2,View shops
+479,Volpaia,Vin Santo del Chianti Classico N.V.,"Italy
+·
+Vin Santo del Chianti Classico",4.2,View shops
+480,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2010,"France
+·
+Sauternes",4.2,View shops
+481,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2001,"France
+·
+Sauternes",4.2,View shops
+482,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2003,"France
+·
+Sauternes",4.2,View shops
+483,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 1998,"France
+·
+Barsac",4.2,View shops
+484,Château Rabaud-Promis,Sauternes (Premier Grand Cru Classé) 2003,"France
+·
+Sauternes",4.2,View shops
+485,Philippe Foreau,Vouvray Moelleux 2009,"France
+·
+Vouvray",4.2,View shops
+486,Maculan,Torcolato 2013,"Italy
+·
+Breganze",4.2,View shops
+487,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2007,"France
+·
+Sauternes",4.2,View shops
+488,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2011,"France
+·
+Barsac",4.2,View shops
+489,Château Raymond-Lafon,Sauternes 2010,"France
+·
+Sauternes",4.2,View shops
+490,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2007,"France
+·
+Sauternes",4.2,View shops
+491,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2013,"France
+·
+Sauternes",4.2,View shops
+492,Orin Swift,Muté N.V.,"United States
+·
+California",4.2,View shops
+493,Château Haut-Bergeron,Sauternes 2009,"France
+·
+Sauternes",4.2,View shops
+494,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2001,"France
+·
+Barsac",4.2,View shops
+495,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2007,"France
+·
+Sauternes",4.2,View shops
+496,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2013,"France
+·
+Sauternes",4.2,View shops
+497,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2016,"France
+·
+Sauternes",4.2,View shops
+498,Château de Myrat,Sauternes (Grand Cru Classé) 2011,"France
+·
+Sauternes",4.2,View shops
+499,Paul Cluver,Riesling Noble Late Harvest 2014,"South Africa
+·
+Elgin",4.2,View shops
+500,Château de Myrat,Sauternes (Grand Cru Classé) 2002,"France
+·
+Sauternes",4.2,View shops
+501,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2011,"France
+·
+Barsac",4.2,View shops
+502,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2010,"France
+·
+Barsac",4.2,View shops
+503,Château d'Arche,Sauternes (Grand Cru Classé) 2009,"France
+·
+Sauternes",4.2,View shops
+504,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2014,"France
+·
+Sauternes",4.2,View shops
+505,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 1998,"France
+·
+Sauternes",4.2,View shops
+506,La Stoppa,Vigna del Volta Malvasia Passito 2009,"Italy
+·
+Emilia",4.2,View shops
+507,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1983,"France
+·
+Sauternes",4.2,View shops
+508,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2011,"France
+·
+Sauternes",4.2,View shops
+509,Château Dereszla,Aszú 5 Puttonyos 2006,"Hungary
+·
+Tokaj",4.2,View shops
+510,Yarden,Heights Gewürztraminer 2014,"Israel
+·
+Galilee",4.2,View shops
+511,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2003,"France
+·
+Barsac",4.2,View shops
+512,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2011,"France
+·
+Sauternes",4.2,View shops
+513,Jean François Ganevat,Vieux Macvin du Jura N.V.,"France
+·
+Jura",4.2,View shops
+514,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 1996,"France
+·
+Sauternes",4.2,View shops
+515,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2004,"France
+·
+Sauternes",4.2,View shops
+516,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2014,"France
+·
+Sauternes",4.2,View shops
+517,Château Nairac,Barsac (Grand Cru Classé) 2011,"France
+·
+Barsac",4.2,View shops
+518,Fèlsina,Vin Santo del Chianti Classico 2003,"Italy
+·
+Vin Santo del Chianti Classico",4.2,View shops
+519,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 1996,"France
+·
+Barsac",4.2,View shops
+520,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2001,"France
+·
+Sauternes",4.2,View shops
+521,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1975,"France
+·
+Sauternes",4.2,View shops
+522,Nigl,Grüner Veltliner Eiswein 2015,"Austria
+·
+Kremstal",4.2,View shops
+523,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 1999,"France
+·
+Sauternes",4.2,View shops
+524,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2003,"France
+·
+Sauternes",4.2,View shops
+525,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 1997,"France
+·
+Sauternes",4.2,View shops
+526,Château Filhot,Sauternes (Grand Cru Classé) 2015,"France
+·
+Sauternes",4.2,View shops
+527,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 1988,"France
+·
+Barsac",4.2,View shops
+528,Hugel,Gewürztraminer Vendange Tardive 2009,"France
+·
+Alsace",4.2,View shops
+529,Patricius,Aszú 5 Puttonyos 2004,"Hungary
+·
+Tokaj",4.2,View shops
+530,Château Climens,Barsac (Premier Grand Cru Classé) 1998,"France
+·
+Barsac",4.2,View shops
+531,Dumangin J. Fils,Ratafia de Champagne N.V.,"France
+·
+Champagne",4.2,View shops
+532,Selvapiana,Vin Santo del Chianti Rufina 2009,"Italy
+·
+Chianti Rùfina",4.2,View shops
+533,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2011,"France
+·
+Sauternes",4.2,View shops
+534,Château Climens,Barsac (Premier Grand Cru Classé) 2013,"France
+·
+Barsac",4.2,View shops
+535,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1986,"France
+·
+Sauternes",4.2,View shops
+536,Isole e Olena,Vin Santo del Chianti Classico 2008,"Italy
+·
+Vin Santo del Chianti Classico",4.2,View shops
+537,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2015,"France
+·
+Sauternes",4.2,View shops
+538,Château Rabaud-Promis,Sauternes (Premier Grand Cru Classé) 1988,"France
+·
+Sauternes",4.2,View shops
+539,Château de Myrat,Sauternes (Grand Cru Classé) 2001,"France
+·
+Sauternes",4.2,View shops
+540,Château Climens,Barsac (Premier Grand Cru Classé) 2000,"France
+·
+Barsac",4.2,View shops
+541,Domaine Jacques Puffeney,Arbois Vin Jaune 2006,"France
+·
+Arbois",4.2,View shops
+542,Château de Malle,Sauternes (Grand Cru Classé) 2010,"France
+·
+Sauternes",4.2,View shops
+543,Château de Malle,Sauternes (Grand Cru Classé) 2008,"France
+·
+Sauternes",4.2,View shops
+544,Château de Myrat,Sauternes (Grand Cru Classé) 2012,"France
+·
+Sauternes",4.2,View shops
+545,Domaine Huet,Vouvray Clos du Bourg Moelleux Première Trie 2008,"France
+·
+Vouvray",4.2,View shops
+546,Jos. Christoffel Jr.,Ürziger Würzgarten Riesling Auslese 2003,"Germany
+·
+Mosel",4.2,View shops
+547,Höpler,Trockenbeerenauslese 2008,"Austria
+·
+Burgenland",4.2,View shops
+548,Kenzo Estate,Muku Late Harvest Sauvignon Blanc 2016,"United States
+·
+Napa Valley",4.2,View shops
+549,Pondview,Vidal Icewine 2015,"Canada
+·
+Four Mile Creek",4.2,View shops
+550,Château de Malle,Sauternes (Grand Cru Classé) 2006,"France
+·
+Sauternes",4.2,View shops
+551,Château Filhot,Sauternes (Grand Cru Classé) 2013,"France
+·
+Sauternes",4.2,View shops
+552,Roagna,Barolo Chinato N.V.,"Italy
+·
+Barolo Chinato",4.2,View shops
+553,Château Bastor-Lamontagne,Sauternes 1989,"France
+·
+Sauternes",4.2,View shops
+554,Erasmo,Late Harvest Torontel 2008,"Chile
+·
+Maule Valley",4.2,View shops
+555,Château de Fargues,Sauternes (Lur Saluces) 1996,"France
+·
+Sauternes",4.2,View shops
+556,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 1995,"France
+·
+Sauternes",4.2,View shops
+557,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2016,"France
+·
+Sauternes",4.2,View shops
+558,Domaine Huet,Vouvray Le Mont Moelleux 2015,"France
+·
+Vouvray",4.2,View shops
+559,Domaine Huet,Vouvray Le Haut-Lieu Moelleux Première Trie 2003,"France
+·
+Vouvray",4.2,View shops
+560,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2000,"France
+·
+Sauternes",4.2,View shops
+561,Clos Haut-Peyraguey,Symphonie de Sauternes 2015,"France
+·
+Sauternes",4.2,View shops
+562,Prà,Passito Bianco delle Fontane N.V.,"Italy
+·
+Recioto di Soave",4.2,View shops
+563,Hermann J. Wiemer,Late Harvest Riesling 2016,"United States
+·
+Seneca Lake",4.2,View shops
+564,Château Doisy-Daëne,Barsac (Grand Cru Classé) 1990,"France
+·
+Barsac",4.2,View shops
+565,Domaine La Tour Vieille,Reserva Banyuls 2015,"France
+·
+Banyuls",4.2,View shops
+566,Fritz Haag,Brauneberger Juffer Riesling Auslese 2015,"Germany
+·
+Brauneberg",4.2,View shops
+567,Caravaglio,Malvasia delle Lipari Passito 2017,"Italy
+·
+Malvasia delle Lipari",4.2,View shops
+568,Hugel,Gewürztraminer Vendange Tardive 2006,"France
+·
+Alsace",4.2,View shops
+569,Château Nairac,Barsac (Grand Cru Classé) 2001,"France
+·
+Barsac",4.2,View shops
+570,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2017,"France
+·
+Sauternes",4.2,View shops
+571,Solidea,Passito di Pantelleria 2014,"Italy
+·
+Passito di Pantelleria",4.2,View shops
+572,Philippe Foreau,Vouvray Moelleux 2015,"France
+·
+Vouvray",4.2,View shops
+573,Château Raymond-Lafon,Sauternes 1995,"France
+·
+Sauternes",4.2,View shops
+574,Domaine Huet,Vouvray Clos du Bourg Moelleux Première Trie 2003,"France
+·
+Vouvray",4.2,View shops
+575,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 1988,"France
+·
+Sauternes",4.2,View shops
+576,Antinori,Grappa Tignanello 2016,"Italy
+·
+Chianti Classico",4.2,View shops
+577,Château Raymond-Lafon,Sauternes 2015,"France
+·
+Sauternes",4.2,View shops
+578,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 1990,"France
+·
+Sauternes",4.2,View shops
+579,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 1970,"France
+·
+Sauternes",4.2,View shops
+580,Philippe Foreau,Vouvray Moelleux 2005,"France
+·
+Vouvray",4.2,View shops
+581,Domaine Jacques Puffeney,Arbois Vin Jaune 2007,"France
+·
+Arbois",4.2,View shops
+582,Château de Myrat,Sauternes (Grand Cru Classé) 2014,"France
+·
+Sauternes",4.2,View shops
+583,Castello di Amorosa,Simpatica 2018,"United States
+·
+California",4.2,View shops
+584,Prà,Passito Bianco delle Fontane 2014,"Italy
+·
+Recioto di Soave",4.2,View shops
+585,St. Urbans-Hof,Gutsabfüllung Ockfener Bockstein Riesling Auslese 2010,"Germany
+·
+Ockfen",4.2,View shops
+586,Domaine de l'Alliance,Sauternes 2011,"France
+·
+Sauternes",4.2,View shops
+587,A. J. Adam,Hofberg Spätlese Riesling 2016,"Germany
+·
+Dhron",4.2,View shops
+588,Château Nairac,Barsac (Grand Cru Classé) 1990,"France
+·
+Barsac",4.2,View shops
+589,Château Doisy-Daëne,Barsac (Grand Cru Classé) 1995,"France
+·
+Barsac",4.2,View shops
+590,Château Raymond-Lafon,Sauternes 1986,"France
+·
+Sauternes",4.2,View shops
+591,Oremus,Tokaji Late Harvest N.V.,"Hungary
+·
+Tokaj",4.1,View shops
+592,Quady,Elysium N.V.,"United States
+·
+Madera",4.1,View shops
+593,Château Rieussec,Carmes de Rieussec Sauternes 2009,"France
+·
+Sauternes",4.1,View shops
+594,Kracher,Cuvée Beerenauslese 2015,"Austria
+·
+Burgenland",4.1,View shops
+595,Kracher,Cuvée Beerenauslese 2011,"Austria
+·
+Burgenland",4.1,View shops
+596,Waterford Estate,The Family Reserve Heatherleigh N.V.,"South Africa
+·
+Stellenbosch",4.1,View shops
+597,Château Suduiraut,Castelnau de Suduiraut Sauternes 2005,"France
+·
+Sauternes",4.1,View shops
+598,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2005,"France
+·
+Sauternes",4.1,View shops
+599,Château de Myrat,Sauternes (Grand Cru Classé) 2009,"France
+·
+Sauternes",4.1,View shops
+600,Maculan,Torcolato 2009,"Italy
+·
+Breganze",4.1,View shops
+601,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2007,"France
+·
+Sauternes",4.1,View shops
+602,Château de Malle,Sauternes (Grand Cru Classé) 2005,"France
+·
+Sauternes",4.1,View shops
+603,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2010,"France
+·
+Sauternes",4.1,View shops
+604,Kracher,Cuvée Beerenauslese 2013,"Austria
+·
+Burgenland",4.1,View shops
+605,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2002,"France
+·
+Barsac",4.1,View shops
+606,Château Filhot,Sauternes (Grand Cru Classé) 2011,"France
+·
+Sauternes",4.1,View shops
+607,Kracher,Cuvée Eiswein 2011,"Austria
+·
+Burgenland",4.1,View shops
+608,COS,Aestas Siciliae N.V.,"Italy
+·
+Terre Siciliane",4.1,View shops
+609,Bermejo,Malvasía Naturalmente Dulce N.V.,"Spain
+·
+Lanzarote",4.1,View shops
+610,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2006,"France
+·
+Barsac",4.1,View shops
+611,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 2007,"France
+·
+Sauternes",4.1,View shops
+612,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2013,"France
+·
+Barsac",4.1,View shops
+613,Château de Malle,Sauternes (Grand Cru Classé) 2007,"France
+·
+Sauternes",4.1,View shops
+614,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2015,"France
+·
+Sauternes",4.1,View shops
+615,Moulin Touchais,Côteaux du Layon 1996,"France
+·
+Côteaux du Layon",4.1,View shops
+616,Trimbach,Gewurztraminer Alsace Vendanges Tardives 2007,"France
+·
+Alsace",4.1,View shops
+617,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2000,"France
+·
+Sauternes",4.1,View shops
+618,Gutiérrez de la Vega,Casta Diva Moscatel Dulce 2013,"Spain
+·
+Alicante",4.1,View shops
+619,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2008,"France
+·
+Barsac",4.1,View shops
+620,Château Rabaud-Promis,Sauternes (Premier Grand Cru Classé) 2009,"France
+·
+Sauternes",4.1,View shops
+621,Château Raymond-Lafon,Sauternes 2002,"France
+·
+Sauternes",4.1,View shops
+622,Kracher,Beerenauslese Zweigelt 2016,"Austria
+·
+Burgenland",4.1,View shops
+623,Château Climens,Barsac (Premier Grand Cru Classé) 2012,"France
+·
+Barsac",4.1,View shops
+624,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2000,"France
+·
+Barsac",4.1,View shops
+625,Zeni,Moscato Rosa N.V.,"Italy
+·
+Trentino",4.1,View shops
+626,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2014,"France
+·
+Sauternes",4.1,View shops
+627,Château Les Justices,Sauternes 2011,"France
+·
+Sauternes",4.1,View shops
+628,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2016,"France
+·
+Barsac",4.1,View shops
+629,Château Suduiraut,Lions de Suduiraut Sauternes 2012,"France
+·
+Sauternes",4.1,View shops
+630,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2006,"France
+·
+Sauternes",4.1,View shops
+631,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 1998,"France
+·
+Sauternes",4.1,View shops
+632,Anselmi,I Capitelli 2011,"Italy
+·
+Recioto di Soave",4.1,View shops
+633,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2014,"France
+·
+Sauternes",4.1,View shops
+634,Château Nairac,Barsac (Grand Cru Classé) 1998,"France
+·
+Barsac",4.1,View shops
+635,Château Rieussec,Carmes de Rieussec Sauternes 2005,"France
+·
+Sauternes",4.1,View shops
+636,Philippe Foreau,Vouvray Moelleux 2003,"France
+·
+Vouvray",4.1,View shops
+637,Pago de Cirsus,Vendimia Tardia Allegro Moscatel 2008,"Spain
+·
+Navarra",4.1,View shops
+638,Trimbach,Gewurztraminer Alsace Vendanges Tardives 2014,"France
+·
+Alsace",4.1,View shops
+639,Fritz Haag,Brauneberger Juffer Sonnenuhr Riesling Auslese 2015,"Germany
+·
+Brauneberg",4.1,View shops
+640,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2011,"France
+·
+Sauternes",4.1,View shops
+641,Pieropan,Le Colombare Recioto di Soave 2015,"Italy
+·
+Recioto di Soave",4.1,View shops
+642,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2017,"France
+·
+Sauternes",4.1,View shops
+643,Bichi,Pet Mex 2018,"Mexico
+·
+Baja California",4.1,View shops
+644,Château de Malle,Sauternes (Grand Cru Classé) 1996,"France
+·
+Sauternes",4.1,View shops
+645,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 2002,"France
+·
+Sauternes",4.1,View shops
+646,Cantine San Marzano,11 Filari Primitivo di Manduria Dolce Naturale 2016,"Italy
+·
+Primitivo di Manduria",4.1,View shops
+647,Coltibuono,Vin Santo Del Chianti Classico 2007,"Italy
+·
+Vin Santo del Chianti Classico",4.1,View shops
+648,Grgich Hills,Violetta Late Harvest 2009,"United States
+·
+Napa Valley",4.1,View shops
+649,Beringer,Nightingale 2008,"United States
+·
+Napa Valley",4.1,View shops
+650,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2008,"France
+·
+Sauternes",4.1,View shops
+651,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2015,"France
+·
+Sauternes",4.1,View shops
+652,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2013,"France
+·
+Sauternes",4.1,View shops
+653,Keermont,Fleurfontein 2017,"South Africa
+·
+Stellenbosch",4.1,View shops
+654,Weingut Max Ferd. Richter,Graacher Himmelreich Riesling Auslese 2016,"Germany
+·
+Mosel",4.1,View shops
+655,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2017,"France
+·
+Barsac",4.1,View shops
+656,Château Nairac,Barsac (Grand Cru Classé) 2012,"France
+·
+Barsac",4.1,View shops
+657,Château Bastor-Lamontagne,Sauternes 2001,"France
+·
+Sauternes",4.1,View shops
+658,Château Roûmieu-Lacoste,Sauternes 2016,"France
+·
+Sauternes",4.1,View shops
+659,Château Nairac,Barsac (Grand Cru Classé) 2007,"France
+·
+Barsac",4.1,View shops
+660,Domaine La Tour Vieille,Reserva Banyuls 2008,"France
+·
+Banyuls",4.1,View shops
+661,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2002,"France
+·
+Sauternes",4.1,View shops
+662,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2017,"France
+·
+Sauternes",4.1,View shops
+663,Château de Fargues,Sauternes (Lur Saluces) 2013,"France
+·
+Sauternes",4.1,View shops
+664,Gini,Col Foscarin Recioto di Soave Classico 2011,"Italy
+·
+Recioto di Soave Classico",4.1,View shops
+665,Marolo,Barolo Chinato N.V.,"Italy
+·
+Barolo Chinato",4.1,View shops
+666,Fritz Haag,Brauneberger Juffer Riesling Auslese 2017,"Germany
+·
+Brauneberg",4.1,View shops
+667,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2014,"France
+·
+Sauternes",4.1,View shops
+668,Domaine Huet,Vouvray Clos du Bourg Moelleux Première Trie 2009,"France
+·
+Vouvray",4.1,View shops
+669,Barbeito,Frasqueira Sercial 1978,"Portugal
+·
+Madeira",4.1,View shops
+670,Willi Haag,Brauneberger Juffer Sonnenuhr Riesling Auslese 2016,"Germany
+·
+Brauneberg",4.1,View shops
+671,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 2015,"France
+·
+Sauternes",4.1,View shops
+672,Château Pierre-Bise,Les Rouannières Coteaux du Layon 'Beaulieu' 2016,"France
+·
+Coteaux du Layon 'Beaulieu-sur-Layon'",4.1,View shops
+673,Castello di Amorosa,Late Harvest Gewürztraminer 2018,"United States
+·
+Anderson Valley",4.1,View shops
+674,Weingut Max Ferd. Richter,Brauneberger Juffer-Sonnenuhr Riesling Auslese 2015,"Germany
+·
+Mosel",4.1,View shops
+675,Château Nairac,Barsac (Grand Cru Classé) 2005,"France
+·
+Barsac",4.1,View shops
+676,Weingut Vollenweider,Wolfer Goldgrube Riesling Spätlese 2015,"Germany
+·
+Mosel",4.1,View shops
+677,Mer Soleil,Late Harvest White 2006,"United States
+·
+Santa Lucia Highlands",4.1,View shops
+678,Château Lamothe Guignard,Sauternes (Grand Cru Classé) 2012,"France
+·
+Sauternes",4.1,View shops
+679,Château Coutet,La Chartreuse de Coutet Sauternes 2012,"France
+·
+Sauternes",4.1,View shops
+680,Borgo Scopeto,Vin Santo del Chianti Classico 2009,"Italy
+·
+Vin Santo del Chianti Classico",4.1,View shops
+681,A. J. Adam,Hofberg Spätlese Riesling 2015,"Germany
+·
+Dhron",4.1,View shops
+682,Château Raymond-Lafon,Sauternes 1983,"France
+·
+Sauternes",4.1,View shops
+683,Château Filhot,Sauternes (Grand Cru Classé) 1983,"France
+·
+Sauternes",4.1,View shops
+684,Reichsgraf von Kesselstatt,Scharzhofberger Riesling Auslese 2003,"Germany
+·
+Mosel",4.1,View shops
+685,Fanni Kertje,Örökség Tokaji Szamorodni Tarcal 2001,"Hungary
+·
+Tokaj",4.1,View shops
+686,Willi Haag,Brauneberg Juffer Riesling Spätlese 2016,"Germany
+·
+Brauneberg",4.1,View shops
+687,Gini,Renobilis Recioto di Soave 2008,"Italy
+·
+Recioto di Soave",4.1,View shops
+688,Wwe. Dr. H. Thanisch - Erben Thanisch,Bernkasteler Badstube Riesling Spätlese 2012,"Germany
+·
+Mosel",4.1,View shops
+689,Angerhof Tschida,Chardonnay Beerenauslese 2013,"Austria
+·
+Neusiedlersee",4.1,View shops
+690,Château Pajzos,Tokaji 5 Puttonyos Aszú 2009,"Hungary
+·
+Tokaj",4.1,View shops
+691,Vite Colte,La Bella Estate Moscato Passito 2017,"Italy
+·
+Piemonte",4.1,View shops
+692,Terrassous,Rivesaltes Hors d'Âge 12 Ans N.V.,"France
+·
+Rivesaltes",4.1,View shops
+693,Bénédicte et Stéphane Tissot,Château-Chalon 2010,"France
+·
+Château-Chalon",4.1,View shops
+694,Tenuta di Castellaro,Malvasia delle Lipari 2015,"Italy
+·
+Malvasia delle Lipari",4.1,View shops
+695,Château Rieussec,Carmes de Rieussec Sauternes 2011,"France
+·
+Sauternes",4.0,View shops
+696,Château Rieussec,Carmes de Rieussec Sauternes 2010,"France
+·
+Sauternes",4.0,View shops
+697,Henri Giraud,Solera Ratafia de Champagne N.V.,"France
+·
+Champagne",4.0,View shops
+698,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2012,"France
+·
+Sauternes",4.0,View shops
+699,Domaine La Tour Vieille,Reserva Banyuls N.V.,"France
+·
+Banyuls",4.0,View shops
+700,Domaine Lafage,Ambré Hors d'Age N.V.,"France
+·
+Rivesaltes",4.0,View shops
+701,Honig,Sauvignon Blanc Late Harvest 2013,"United States
+·
+Rutherford",4.0,View shops
+702,Disznókó,Tokaji Kësõi Szüret Late Harvest 2016,"Hungary
+·
+Tokaj",4.0,View shops
+703,G.D. Vajra,Barolo Chinato N.V.,"Italy
+·
+Barolo Chinato",4.0,View shops
+704,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2005,"France
+·
+Sauternes",4.0,View shops
+705,Château Suduiraut,Castelnau de Suduiraut Sauternes 2007,"France
+·
+Sauternes",4.0,View shops
+706,Cloudy Bay,Late Harvest Riesling 2008,"New Zealand
+·
+Marlborough",4.0,View shops
+707,Planeta,Passito di Noto 2013,"Italy
+·
+Moscato di Noto",4.0,View shops
+708,Tramin,Terminum Gewürztraminer 2015,"Italy
+·
+Südtirol - Alto Adige",4.0,View shops
+709,Domaine Huet,Vouvray Le Haut-Lieu Moelleux 2008,"France
+·
+Vouvray",4.0,View shops
+710,Wagner Vineyards,Vidal Blanc Ice N.V.,"United States
+·
+Finger Lakes",4.0,View shops
+711,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2012,"France
+·
+Barsac",4.0,View shops
+712,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2015,"France
+·
+Barsac",4.0,View shops
+713,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé) 2012,"France
+·
+Barsac",4.0,View shops
+714,Domaine Cauhapé,Noblesse du Temps Jurançon 2012,"France
+·
+Jurançon",4.0,View shops
+715,Quady,Essensia Orange Muscat 2015,"United States
+·
+Madera",4.0,View shops
+716,Château Raymond-Lafon,Sauternes 2004,"France
+·
+Sauternes",4.0,View shops
+717,Terrassous,Rivesaltes Hors d'Âge 6 Ans N.V.,"France
+·
+Rivesaltes",4.0,View shops
+718,Weingut Vollenweider,Wolfer Goldgrube Riesling Spätlese 2007,"Germany
+·
+Mosel",4.0,View shops
+719,Château Raymond-Lafon,Sauternes 2006,"France
+·
+Sauternes",4.0,View shops
+720,Château Climens,Cyprès de Climens Barsac 2010,"France
+·
+Barsac",4.0,View shops
+721,Domaine de Montbourgeau,Macvin du Jura N.V.,"France
+·
+Jura",4.0,View shops
+722,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2010,"France
+·
+Sauternes",4.0,View shops
+723,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2015,"France
+·
+Sauternes",4.0,View shops
+724,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2016,"France
+·
+Sauternes",4.0,View shops
+725,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2016,"France
+·
+Barsac",4.0,View shops
+726,Château Guiraud,Petit Guiraud Sauternes 2014,"France
+·
+Sauternes",4.0,View shops
+727,Château Guiraud,Le Dauphin de Guiraud Sauternes 2004,"France
+·
+Sauternes",4.0,View shops
+728,Château de Malle,Sauternes (Grand Cru Classé) 1997,"France
+·
+Sauternes",4.0,View shops
+729,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 2002,"France
+·
+Sauternes",4.0,View shops
+730,Château Guiraud,Sauternes (Premier Grand Cru Classé) 2012,"France
+·
+Sauternes",4.0,View shops
+731,Château Broustet,Barsac-Sauternes (Grand Cru Classé) 2009,"France
+·
+Barsac",4.0,View shops
+732,Château Villefranche,Sauternes 2010,"France
+·
+Sauternes",4.0,View shops
+733,Château Bastor-Lamontagne,Sauternes 2016,"France
+·
+Sauternes",4.0,View shops
+734,Dr. Heidemanns Bergweiler,Bernkasteler Badstube Riesling Spätlese 2011,"Germany
+·
+Bernkastel",4.0,View shops
+735,Philippe Foreau,Vouvray Moelleux 1999,"France
+·
+Vouvray",4.0,View shops
+736,Selbach-Oster,Zeltinger Sonnenuhr Riesling Spätlese 2011,"Germany
+·
+Mosel",4.0,View shops
+737,Antinori,Vinsanto del Chianti Classico 2013,"Italy
+·
+Vin Santo del Chianti Classico",4.0,View shops
+738,Château Lamothe Guignard,Sauternes (Grand Cru Classé) 2001,"France
+·
+Sauternes",4.0,View shops
+739,Clos Haut-Peyraguey,Château Haut Bommes Sauternes 2010,"France
+·
+Sauternes",4.0,View shops
+740,Domaine Cauhapé,Noblesse du Temps Jurançon 2014,"France
+·
+Jurançon",4.0,View shops
+741,Gini,Col Foscarin Recioto di Soave Classico 2010,"Italy
+·
+Recioto di Soave Classico",4.0,View shops
+742,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2017,"France
+·
+Sauternes",4.0,View shops
+743,Alfred Merkelbach - Geschw Albertz-Erben,Ürziger Würzgarten Riesling Spätlese 2016,"Germany
+·
+Mosel",4.0,View shops
+744,Château Guiraud,Sauternes (Premier Grand Cru Classé) 1981,"France
+·
+Sauternes",4.0,View shops
+745,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2016,"France
+·
+Sauternes",4.0,View shops
+746,Fèlsina,Vin Santo del Chianti Classico 2000,"Italy
+·
+Vin Santo del Chianti Classico",4.0,View shops
+747,Château Sigalas Rabaud,Sauternes (Premier Grand Cru Classé) 2013,"France
+·
+Sauternes",4.0,View shops
+748,Selbach-Oster,Zeltinger Schlossberg Riesling Spätlese Trocken 2015,"Germany
+·
+Mosel",4.0,View shops
+749,Librandi,Le Passule Passito Bianco 2009,"Italy
+·
+Val di Neto",4.0,View shops
+750,Ferrari Carano,Eldorado Gold 2013,"United States
+·
+Sonoma County",4.0,View shops
+751,Dutschke,The Muscat N.V.,"Australia
+·
+South Australia",4.0,View shops
+752,Jos. Christoffel Jr.,Ürziger Würzgarten Riesling Auslese 2011,"Germany
+·
+Mosel",4.0,View shops
+753,Château de Malle,Sauternes (Grand Cru Classé) 2011,"France
+·
+Sauternes",4.0,View shops
+754,Kracher,Muskat Ottonel Auslese 2011,"Austria
+·
+Burgenland",4.0,View shops
+755,Selbach-Oster,Zeltinger Sonnenuhr Riesling Spätlese 2015,"Germany
+·
+Mosel",4.0,View shops
+756,Wwe. Dr. H. Thanisch - Erben Thanisch,Bernkasteler Badstube Riesling Spätlese 2015,"Germany
+·
+Mosel",4.0,View shops
+757,Selbach-Oster,Zeltinger Sonnenuhr Riesling Spätlese Trocken 2015,"Germany
+·
+Mosel",4.0,View shops
+758,Trimbach,Pinot Gris Alsace Vendanges Tardives 2008,"France
+·
+Alsace",4.0,View shops
+759,Domaine Huet,Vouvray Clos du Bourg Moelleux 2003,"France
+·
+Vouvray",4.0,View shops
+760,Château Doisy-Daëne,Barsac (Grand Cru Classé) 2017,"France
+·
+Barsac",4.0,View shops
+761,Schloss Lieser,Juffer Sonnenuhr Riesling Spätlese 2014,"Germany
+·
+Mosel",4.0,View shops
+762,Château de Malle,Sauternes (Grand Cru Classé) 2016,"France
+·
+Sauternes",4.0,View shops
+763,Dobogó,Mylitta 2007,"Hungary
+·
+Tokaj",4.0,View shops
+764,Quady,Essensia Orange Muscat N.V.,"United States
+·
+Madera",3.9,View shops
+765,Cantine Pellegrino,Passito Pantelleria Liquoroso 2017,"Italy
+·
+Passito di Pantelleria",3.9,View shops
+766,Selbach-Oster,Zeltinger Sonnenuhr Riesling Spätlese N.V.,"Germany
+·
+Mosel",3.9,View shops
+767,Château Guiraud,Petit Guiraud Sauternes 2010,"France
+·
+Sauternes",3.9,View shops
+768,Château Rieussec,Carmes de Rieussec Sauternes 2014,"France
+·
+Sauternes",3.9,View shops
+769,Tobin James Cellars,Zinfandel Late Harvest Liquid Love N.V.,"United States
+·
+Paso Robles",3.9,View shops
+770,Selbach-Oster,Zeltinger Schlossberg Riesling Auslese N.V.,"Germany
+·
+Mosel",3.9,View shops
+771,Château Grillon,Sauternes 2015,"France
+·
+Sauternes",3.9,View shops
+772,Domaine Huet,Vouvray Le Haut-Lieu Moelleux 2015,"France
+·
+Vouvray",3.9,View shops
+773,d'Arenberg,The Noble Wrinkled Riesling 2016,"Australia
+·
+McLaren Vale",3.9,View shops
+774,Clos de la Roilette,Cuvée Tardive Fleurie 2018,"France
+·
+Fleurie",3.9,View shops
+775,Château Rieussec,Sauternes (Premier Grand Cru Classé) 2013,"France
+·
+Sauternes",3.9,View shops
+776,Château Raymond-Lafon,Sauternes 2008,"France
+·
+Sauternes",3.9,View shops
+777,Château Lamothe Guignard,Sauternes (Grand Cru Classé) 2011,"France
+·
+Sauternes",3.9,View shops
+778,Cascina Chicco,Arcass N.V.,"Italy
+·
+Roero",3.9,View shops
+779,Château Villefranche,Sauternes 2013,"France
+·
+Sauternes",3.9,View shops
+780,Château de Myrat,Sauternes (Grand Cru Classé) 2003,"France
+·
+Sauternes",3.9,View shops
+781,Château Lamothe Guignard,Sauternes (Grand Cru Classé) 2003,"France
+·
+Sauternes",3.9,View shops
+782,Schloss Lieser,Niederberg Helden Riesling Spätlese 2014,"Germany
+·
+Mosel",3.9,View shops
+783,Château Doisy-Vedrines,Sauternes (Grand Cru Classé) 1997,"France
+·
+Sauternes",3.9,View shops
+784,Domaine Huet,Vouvray Le Haut-Lieu Moelleux 2016,"France
+·
+Vouvray",3.9,View shops
+785,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2016,"France
+·
+Sauternes",3.9,View shops
+786,Château Soucherie,Clos des Perrières Savennières 2015,"France
+·
+Savennières",3.9,View shops
+787,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé) 2012,"France
+·
+Sauternes",3.9,View shops
+788,Château Raymond-Lafon,Sauternes 1999,"France
+·
+Sauternes",3.9,View shops
+789,A. J. Adam,Hofberg Spätlese Riesling 2013,"Germany
+·
+Dhron",3.9,View shops
+790,Inniskillin,Vidal Icewine 2002,"Canada
+·
+Niagara Peninsula",3.9,View shops
+791,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2008,"France
+·
+Sauternes",3.9,View shops
+792,Château La Tour Blanche,Sauternes (Premier Grand Cru Classé) 2012,"France
+·
+Sauternes",3.9,View shops
+793,Husch Vineyards,Gewürztraminer Late Harvest 2014,"United States
+·
+Anderson Valley",3.9,View shops
+794,Domaine Jacques Puffeney,Arbois Vin Jaune 2009,"France
+·
+Arbois",3.9,View shops
+795,Lucas & André Rieffel,Vendanges Tardives Riesling Alsace Grand Cru 'Wiebelsberg' 2011,"France
+·
+Alsace Grand Cru 'Wiebelsberg'",3.9,View shops
+796,Duckhorn,Late Harvest Sauvignon Blanc 2012,"United States
+·
+Knights Valley",3.9,View shops
+797,Château de Myrat,Sauternes (Grand Cru Classé) 2015,"France
+·
+Sauternes",3.9,View shops
+798,Coltibuono,Vin Santo Del Chianti Classico 2011,"Italy
+·
+Vin Santo del Chianti Classico",3.9,View shops
+799,Château Rieussec,Château de Cosse Sauternes 2014,"France
+·
+Sauternes",3.9,View shops
+800,Château Rieussec,Carmes de Rieussec Sauternes 2017,"France
+·
+Sauternes",3.9,View shops
+801,Château Filhot,Sauternes (Grand Cru Classé) 2014,"France
+·
+Sauternes",3.9,View shops
+802,Château la Rame,Les Coteaux de la Rame Sainte-Croix-du-Mont 2015,"France
+·
+Saint-Croix-du-Mont",3.9,View shops
+803,Château Liot,Sauternes 1997,"France
+·
+Sauternes",3.9,View shops
+804,Feudi di San Gregorio,Privilegio 2016,"Italy
+·
+Irpinia",3.9,View shops
+805,Tommasi,Monte Croce Passito Bianco 2015,"Italy
+·
+Recioto di Soave",3.9,View shops
+806,A. J. Adam,Hofberg Spätlese Riesling 2011,"Germany
+·
+Dhron",3.9,View shops
+807,Château Piada,Sauternes 2015,"France
+·
+Sauternes",3.9,View shops
+808,Mönchhof,Mosel Slate Riesling Spätlese 2015,"Germany
+·
+Mosel",3.9,View shops
+809,Château Suduiraut,Sauternes (Premier Grand Cru Classé) 2018,"France
+·
+Sauternes",3.9,View shops
+810,Château Rieussec,Carmes de Rieussec Sauternes 2008,"France
+·
+Sauternes",3.8,View shops
+811,Wagner Vineyards,Riesling Ice N.V.,"United States
+·
+Finger Lakes",3.8,View shops
+812,Dutschke,Sun-Dried Shiraz N.V.,"Australia
+·
+South Australia",3.8,View shops
+813,Clos de la Roilette,Cuvée Tardive Fleurie 2015,"France
+·
+Fleurie",3.8,View shops
+814,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2013,"France
+·
+Sauternes",3.8,View shops
+815,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé) 2012,"France
+·
+Sauternes",3.8,View shops
+816,Castellare,Vin Santo del Chianti Classico S. Niccolò 2011,"Italy
+·
+Vin Santo del Chianti Classico",3.8,View shops
+817,Château Guiraud,Petit Guiraud Sauternes 2005,"France
+·
+Sauternes",3.8,View shops
+818,Geografico,Vin Santo del Chianti 2010,"Italy
+·
+Vin Santo del Chianti",3.8,View shops
+819,Clos Lapeyre,La Magendia 2016,"France
+·
+Jurançon",3.8,View shops
+820,Philippe Foreau,Vouvray Moelleux 2010,"France
+·
+Vouvray",3.8,View shops
+821,Château Simon,Barsac 2015,"France
+·
+Barsac",3.8,View shops
+822,Dr. H. Thanisch,Berncasteler Doctor Riesling Spätlese 2015,"Germany
+·
+Mosel",3.8,View shops
+823,Selbach-Oster,Zeltinger Sonnenuhr Riesling Spätlese 2016,"Germany
+·
+Mosel",3.8,View shops
+824,Alfred Merkelbach - Geschw Albertz-Erben,Ürziger Würzgarten Riesling Spätlese 2015,"Germany
+·
+Mosel",3.8,View shops
+825,Château Filhot,Sauternes (Grand Cru Classé) 1976,"France
+·
+Sauternes",3.8,View shops
+826,G. Battista Columbu,Alvaréga Malvasia di Bosa 2014,"Italy
+·
+Malvasia di Bosa",3.8,View shops
+827,Ravines,Vignoles Late Harvest 2013,"United States
+·
+Finger Lakes",3.8,View shops
+828,Château Piada,Sauternes 2006,"France
+·
+Sauternes",3.7,View shops
+829,Château Rieussec,Carmes de Rieussec Sauternes 2016,"France
+·
+Sauternes",3.7,View shops
+830,Château Haut-Bergeron,Sauternes 2011,"France
+·
+Sauternes",3.7,View shops
+831,Contini,Vernaccia di Oristano 2006,"Italy
+·
+Vernaccia di Oristano",3.7,View shops
+832,Barton & Guestier,Sauternes 2016,"France
+·
+Sauternes",3.7,View shops
+833,Jos. Christoffel Jr.,Ürziger Würzgarten Riesling Auslese 2012,"Germany
+·
+Mosel",3.7,View shops
+834,Clos Lapeyre,Vitatge Vielh Sec 2014,"France
+·
+Jurançon",3.7,View shops
+835,Château Grillon,Sauternes 2013,"France
+·
+Sauternes",3.7,View shops
+836,Quady,Starboard (Vintage Port) 2006,"United States
+·
+Amador County",3.7,View shops
+837,Schloss Lieser,SL Riesling Spätlese Trocken 2013,"Germany
+·
+Mosel",3.7,View shops
+838,Contratto,Americano Rosso N.V.,"Italy
+·
+Piemonte",3.6,View shops
+839,Schloss Lieser,SL Riesling Spätlese Trocken 2012,"Germany
+·
+Mosel",3.6,View shops
+840,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé) 2013,"France
+·
+Sauternes",3.6,View shops
+841,Undurraga,Late Harvest Reserva Sémillon 2014,"Chile
+·
+Maipo Valley",3.6,View shops
+842,Château Bastor-Lamontagne,Sauternes 2014,"France
+·
+Sauternes",3.6,View shops
+843,Château de Myrat,Sauternes (Grand Cru Classé) 2013,"France
+·
+Sauternes",3.5,View shops
+844,Dr. H. Thanisch,Bernkasteler Graben Riesling Spätlese 2012,"Germany
+·
+Mosel",3.5,View shops
