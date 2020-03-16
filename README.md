@@ -61,6 +61,7 @@ Initial EDA of the master wine catalog file produced the following key insights 
 2) The majority of the database (over 50%) reflects wine bottle pricing under $100.00
 
 
+
 3) The order of the top five wine styles Chardonnay, Brut Champagne, Blended table wine, Cabernet Sauvignon and Sauvignon Blanc respectively, reflect current national retail sales trends tracking consumer demand.
 
 
@@ -132,11 +133,13 @@ In conclusion, there is still a lot of potential in the opportunity to produce a
 
 ## CONTENTS
 
-- [WEB SCRAPING CODE EXPLANATION](#01-WEB SCRAPING CODE EXPLANATION)
-- [WINE CATEGORY BOOK CONSTRUCTION](#02-WINE CATGEORY BOOK ASSEMBLY)
-- [MASTER WINE CATALOG ASSEMBLY](#03-MASTER WINE CATALOG ASSEMBLY)
-- [USER RATING DATASET](#04-USER RATING DATASET)
-- [RECOMMENDER - PHASE 1](#05-RECOMMENDER - PHASE 1)
-- [RECOMMENDER - PHASE 2](#06-RECOMMENDER - PHASE 2)
+- NOTEBOOK 01: WEB SCRAPING CODE EXPLANATION
+- NOTEBOOK 02: WINE CATEGORY BOOK CONSTRUCTION
+- NOTEBOOK 03: MASTER WINE CATALOG ASSEMBLY
+- NOTEBOOK 04: USER RATING DATASET
+- NOTEBOOK 05: RECOMMENDER - PHASE 1
+- NOTEBOOK 06: RECOMMENDER - PHASE 2
+
+
 
 
